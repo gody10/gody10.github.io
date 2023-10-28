@@ -93,7 +93,7 @@ skills:
         icon_pack: fas
       - name: Dogs
         description: ''
-        percent: 90
+        percent: 100
         icon: dog
         icon_pack: fas
       - name: Gaming
@@ -142,5 +142,5 @@ social:
 highlight_name: true
 ---
 
-Odyssefs Diamantopoulos-Pantaleon is a MSc student at the Athens University of Economics and Business. He is also a Machine Learning Research Engineer at the Mobile Multimedia Laboratory, Plegma Labs and Helvia. His research interests include Reinforcement Learning, Natural Language Processing and Large Language models.
+Odyssefs Diamantopoulos-Pantaleon is a MSc student at the Athens University of Economics and Business. He is also a Machine Learning Research Engineer at Plegma Labs, Helvia and the Mobile Multimedia Laboratory. His research interests include Reinforcement Learning, Natural Language Processing and Large Language models.
 {style="text-align: justify;"}
