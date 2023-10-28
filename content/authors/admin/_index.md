@@ -52,40 +52,61 @@ education:
 skills:
   - name: Technical
     items:
-    - name: Python
+    - name: Pandas
       description: ''
-      percent: 80
+      percent: 97
       icon: python
-      icon_pack: fab
-    - name: Data Science
+      icon_pack: fas
+    - name: Tensorflow/Keras
+      description: ''
+      percent: 85
+      icon: microchip-ai
+      icon_pack: fas
+    - name: PyTorch
+      description: ''
+      percent: 73
+      icon: microchip-ai
+      icon_pack: fas
+    - name: Gym
       description: ''
       percent: 100
-      icon: chart-line
+      icon: microchip-ai
       icon_pack: fas
-    - name: SQL
+    - name: Ray
       description: ''
-      percent: 40
-      icon: database
+      percent: 90
+      icon: microchip-ai
       icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Volleyball
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 90
+        icon: volleyball
         icon_pack: fas
-      - name: Cats
+      - name: Philosophy
         description: ''
-        percent: 100
-        icon: cat
+        percent: 75
+        icon: head-side-gear
         icon_pack: fas
-      - name: Photography
+      - name: Dogs
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 90
+        icon: dog
         icon_pack: fas
+      - name: Gaming
+        description: ''
+        percent: 85
+        icon: gamepad
+        icon_pack: fas
+      - name: Running
+        description: ''
+        percent: 70
+        icon: person-running
+        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -121,5 +142,5 @@ social:
 highlight_name: true
 ---
 
-Odyssefs Diamantopoulos-Pantaleon is a MSc student at the Athens University of Economics and Business. He is also a Machine Learning Research Engineer at the Multimedia Mobile Laboratory, Plegma Labs and Helvia.io. His research interests include Reinforcement Learning, Natural Language Processing and Large Language models.
+Odyssefs Diamantopoulos-Pantaleon is a MSc student at the Athens University of Economics and Business. He is also a Machine Learning Research Engineer at the Mobile Multimedia Laboratory, Plegma Labs and Helvia. His research interests include Reinforcement Learning, Natural Language Processing and Large Language models.
 {style="text-align: justify;"}
