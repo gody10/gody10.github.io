@@ -54,29 +54,29 @@ skills:
     items:
     - name: Pandas
       description: ''
-      percent: 97
+      percent: 100
       icon: python
-      icon_pack: fas
+      icon_pack: fab
     - name: Tensorflow/Keras
       description: ''
       percent: 85
       icon: microchip-ai
-      icon_pack: fas
+      icon_pack: fab
     - name: PyTorch
       description: ''
       percent: 73
       icon: microchip-ai
-      icon_pack: fas
+      icon_pack: fab
     - name: Gym
       description: ''
       percent: 100
       icon: microchip-ai
-      icon_pack: fas
+      icon_pack: fab
     - name: Ray
       description: ''
       percent: 90
       icon: microchip-ai
-      icon_pack: fas
+      icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -90,7 +90,7 @@ skills:
         description: ''
         percent: 75
         icon: head-side-gear
-        icon_pack: fas
+        icon_pack: fab
       - name: Dogs
         description: ''
         percent: 90
