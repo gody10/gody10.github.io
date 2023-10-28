@@ -60,23 +60,23 @@ skills:
     - name: Tensorflow/Keras
       description: ''
       percent: 85
-      icon: microchip-ai
-      icon_pack: fab
+      icon: brain
+      icon_pack: fas
     - name: PyTorch
       description: ''
       percent: 73
-      icon: microchip-ai
-      icon_pack: fab
+      icon: brain
+      icon_pack: fas
     - name: Gym
       description: ''
       percent: 100
-      icon: microchip-ai
-      icon_pack: fab
+      icon: brain
+      icon_pack: fas
     - name: Ray
       description: ''
       percent: 90
-      icon: microchip-ai
-      icon_pack: fab
+      icon: brain
+      icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -89,8 +89,8 @@ skills:
       - name: Philosophy
         description: ''
         percent: 75
-        icon: head-side-gear
-        icon_pack: fab
+        icon: book
+        icon_pack: fas
       - name: Dogs
         description: ''
         percent: 90
