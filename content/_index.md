@@ -65,11 +65,16 @@ sections:
         - title: Machine Learning Research Engineer
           company: Plegma Labs
           company_url: 'https://pleg.ma'
-          company_logo: plegma_labs
+          company_logo: org-gc
           location: Athens
           date_start: '2023-01-02'
           date_end: ''
-          description:
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
               
       
     design:
