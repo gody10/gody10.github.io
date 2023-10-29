@@ -65,7 +65,7 @@ sections:
         - title: Machine Learning Research Engineer
           company: Plegma Labs
           company_url: 'https://pleg.ma'
-          company_logo: org-gc
+          company_logo: plegma_labs
           location: Athens
           date_start: '2023-01-02'
           date_end: ''
