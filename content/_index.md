@@ -91,7 +91,7 @@ sections:
               * Participating in codefests and other contests like the European Patent Office (EPO) 2023 Codefest (1st Place achieved!)
               * Helping with research publishing
         - title: Research and Teacher Assistant
-          company: Helvia
+          company: Athens University of Economics and Business
           company_url: 'https://helvia.ai'
           company_logo: helvia_technologies_logo
           location: Athens
