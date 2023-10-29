@@ -65,7 +65,7 @@ sections:
         - title: Machine Learning Research Engineer
           company: Plegma Labs
           company_url: 'https://pleg.ma'
-          company_logo: plegma_labs
+          company_logo: org-gc
           location: Athens, Greece
           date_start: '01-02-2023'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Machine Learning Research Engineer
           company: Helvia.io
           company_url: 'https://helvia.ai'
-          company_logo: helvia_technologies_logo
+          company_logo: org-gc
           location: Athens, Greece
           date_start: '01-11-2022'
           date_end: ''
@@ -93,7 +93,7 @@ sections:
           - title: Research and Teacher Assistant
             company: Athens University of Economics and Business
             company_url: 'https://www.aueb.gr/en'
-            company_logo: aueb
+            company_logo: org-gc
             location: Athens, Greece
             date_start: '01-07-2022'
             date_end: ''
