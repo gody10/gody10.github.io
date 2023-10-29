@@ -62,27 +62,47 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Machine Learning Research Engineer
+          company: Plegma Labs
+          company_url: 'https://pleg.ma'
+          company_logo: plegma_labs
+          location: Athens, Greece
+          date_start: '01-02-2023'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Conducting research on Residential Energy Consumption
+              * Building complex Reinforcement Learning environments
+              * Training and deploying Reinforcement Learning agents
+        - title: Machine Learning Research Engineer
+          company: Helvia.io
+          company_url: 'https://helvia.ai'
+          company_logo: helvia_technologies_logo
+          location: Athens, Greece
+          date_start: '01-11-2022'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Conducting research on the fields of Natural Language Processing and Large Language Models
+              * Building complex models and pipelines
+              * Performing API Calls
+              * Participating in codefests and other contests like the European Patent Office (EPO) 2023 Codefest (1st Place achieved!)
+              * Helping with research publishing
+          - title: Research and Teacher Assistant
+            company: Athens University of Economics and Business
+            company_url: 'https://www.aueb.gr/en'
+            company_logo: aueb
+            location: Athens, Greece
+            date_start: '01-07-2022'
+            date_end: ''
+            description: |2-
+                Responsibilities include:
+
+                * Conducting research on Appliance Scheduling and Residential Energy Consumption
+                * Utilizing Reinforcement Learning tools
+                * Helping in assignment correction and examination in the undergraduate courses of "Mathematics 1" and "Data Bases"
     design:
       columns: '2'
   - block: accomplishments
