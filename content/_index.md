@@ -92,7 +92,7 @@ sections:
               * Helping with research publishing
         - title: Research and Teacher Assistant
           company: Athens University of Economics and Business
-          company_url: 'https://helvia.ai'
+          company_url: 'https://www.aueb.gr/en'
           company_logo: helvia_technologies_logo
           location: Athens
           date_start: '2022-11-01'
