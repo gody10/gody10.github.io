@@ -102,7 +102,7 @@ sections:
 
                 * Conducting research on Appliance Scheduling and Residential Energy Consumption
                 * Utilizing Reinforcement Learning tools
-                * Helping in assignment correction and examination in the undergraduate courses of "Mathematics 1" and "Data Bases"
+                * Helping in assignment correction and examination in the undergraduate courses of Mathematics 1 and Data Bases
     design:
       columns: '2'
   - block: accomplishments
