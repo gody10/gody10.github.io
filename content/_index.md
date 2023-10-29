@@ -67,7 +67,7 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Athens, Greece
-          date_start: '01-02-2023'
+          date_start: '2023-01-02'
           date_end: ''
           description: |2-
       
