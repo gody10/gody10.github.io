@@ -119,8 +119,8 @@ sections:
           description: ''
           organization: European Patent Office (EPO)
           organization_url: https://www.epo.org/en
-          title: Neural Networks and Deep Learning
-          url: ''
+          title: Winner of the European Patent Office 2023 Codefest
+          url: 'https://www.epo.org/en/news-events/news/epo-announces-codefest-winners'
     design:
       columns: '2'
   - block: collection
