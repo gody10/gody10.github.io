@@ -67,7 +67,7 @@ sections:
           company_url: 'https://pleg.ma'
           company_logo: plegma_labs
           location: Athens
-          date_start: '2023-01-02'
+          date_start: '2023-02-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,7 +75,34 @@ sections:
               * Conducting research on Residential Energy Consumption
               * Building complex Reinforcement Learning environments
               * Training and deploying Reinforcement Learning agents
-         
+         - title: Machine Learning Research Engineer
+          company: Helvia.io
+          company_url: 'https://helvia.ai'
+          company_logo: helvia_technologies_logo
+          location: Athens
+          date_start: '2022-11-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Conducting research on the fields of Natural Language Processing and Large Language Models
+              * Building complex models and pipelines
+              * Performing API Calls
+              * Participating in codefests and other contests like the European Patent Office (EPO) 2023 Codefest (1st Place achieved!)
+              * Helping with research publishing
+          - title: Research and Teacher Assistant
+            company: Athens University of Economics and Business
+            company_url: 'https://www.aueb.gr/en'
+            company_logo: aueb
+            location: Athens
+            date_start: '2022-06-31'
+            date_end: ''
+            description: |2-
+                Responsibilities include:
+
+                * Conducting research on Appliance Scheduling and Residential Energy Consumption
+                * Utilizing Reinforcement Learning tools
+                * Helping in assignment correction and examination in the undergraduate courses of "Mathematics 1" and "Data Bases"
       
     design:
       columns: '2'
