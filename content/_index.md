@@ -66,7 +66,7 @@ sections:
           company: Plegma Labs
           company_url: 'https://pleg.ma'
           company_logo: plegma_labs
-          location: Athens, Greece
+          location: Athens
           date_start: '2023-01-02'
           date_end: ''
           description:
