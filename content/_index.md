@@ -98,7 +98,7 @@ sections:
           date_start: '2022-06-30'
           date_end: ''
           description: |2-
-              Responsibilities include:
+                Responsibilities include:
 
                 * Conducting research on Appliance Scheduling and Residential Energy Consumption
                 * Utilizing Reinforcement Learning tools
