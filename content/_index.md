@@ -93,8 +93,8 @@ sections:
         - title: Research and Teacher Assistant
           company: Athens University of Economics and Business
           company_url: 'https://www.aueb.gr/en'
-          company_logo: helvia_technologies_logo
-          location: Athens
+          company_logo: aueb
+          location: Athens, Greece
           date_start: '2022-06-30'
           date_end: ''
           description: |2-
