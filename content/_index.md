@@ -159,7 +159,7 @@ sections:
       text: |-
         Please do not hesitate to contact me!
       # Contact (add or remove contact options as necessary)
-      email: o.diamantopoulospantaleon@gmail.com
+      email: o.diamantopoulospantaleon@gmail.com, diamandopoulos@aueb.gr
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
