@@ -91,11 +91,11 @@ sections:
               * Participating in codefests and other contests like the European Patent Office (EPO) 2023 Codefest (1st Place achieved!)
               * Helping with research publishing
         - title: Research and Teacher Assistant
-            company: Athens University of Economics and Business
+            company: AUEB
             company_url: 'https://www.aueb.gr/en'
             company_logo: aueb
             location: Athens
-            date_start: '2022-11-01'
+            date_start: '2022-06-31'
             date_end: ''
             description: |2-
                 Responsibilities include:
