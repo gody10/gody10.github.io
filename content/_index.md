@@ -76,19 +76,6 @@ sections:
               * Building complex Reinforcement Learning environments
               * Training and deploying Reinforcement Learning agents
          
-          - title: Research and Teacher Assistant
-            company: Athens University of Economics and Business
-            company_url: 'https://www.aueb.gr/en'
-            company_logo: aueb
-            location: Athens
-            date_start: '2022-06-31'
-            date_end: ''
-            description: |2-
-                Responsibilities include:
-
-                * Conducting research on Appliance Scheduling and Residential Energy Consumption
-                * Utilizing Reinforcement Learning tools
-                * Helping in assignment correction and examination in the undergraduate courses of "Mathematics 1" and "Data Bases"
       
     design:
       columns: '2'
