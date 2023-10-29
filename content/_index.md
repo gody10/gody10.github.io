@@ -69,7 +69,7 @@ sections:
           location: Athens, Greece
           date_start: '01-02-2023'
           date_end: ''
-          description: |2-
+          description: |3-
               Responsibilities include:
 
               * Conducting research on Residential Energy Consumption
