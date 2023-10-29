@@ -69,12 +69,8 @@ sections:
           location: Athens, Greece
           date_start: '01-02-2023'
           date_end: ''
-          description: |3-
-              Responsibilities include:
-
-              * Conducting research on Residential Energy Consumption
-              * Building complex Reinforcement Learning environments
-              * Training and deploying Reinforcement Learning agents
+          description: |2-
+      
     design:
       columns: '2'
   - block: accomplishments
