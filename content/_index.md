@@ -66,14 +66,10 @@ sections:
           company: Plegma Labs
           company_url: 'https://pleg.ma'
           company_logo: plegma_labs
-          location: Athens
+          location: Athens, Greece
           date_start: '2023-01-02'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Conducting research on Residential Energy Consumption
-              * Building complex Reinforcement Learning environments
+          description:
               
       
     design:
