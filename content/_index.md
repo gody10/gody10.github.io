@@ -69,7 +69,7 @@ sections:
           location: Athens, Greece
           date_start: '2023-01-02'
           date_end: ''
-          description: |2-
+          description: |3-
               Responsibilities include:
 
               * Conducting research on Residential Energy Consumption
@@ -80,9 +80,9 @@ sections:
           company_url: 'https://helvia.ai'
           company_logo: helvia_technologies_logo
           location: Athens, Greece
-          date_start: '2023-01-02'
+          date_start: '2022-01-11'
           date_end: ''
-          description: |2-
+          description: |5-
               Responsibilities include:
 
               * Conducting research on the fields of Natural Language Processing and Large Language Models
@@ -95,9 +95,9 @@ sections:
             company_url: 'https://www.aueb.gr/en'
             company_logo: aueb
             location: Athens, Greece
-            date_start: '2023-01-02'
+            date_start: '2022-01-07'
             date_end: ''
-            description: |2-
+            description: |3-
                 Responsibilities include:
 
                 * Conducting research on Appliance Scheduling and Residential Energy Consumption
