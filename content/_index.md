@@ -80,7 +80,7 @@ sections:
           company_url: 'https://helvia.ai'
           company_logo: helvia_technologies_logo
           location: Athens, Greece
-          date_start: '2022-01-11'
+          date_start: '2023-01-02'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -95,7 +95,7 @@ sections:
             company_url: 'https://www.aueb.gr/en'
             company_logo: aueb
             location: Athens, Greece
-            date_start: '2022-01-07'
+            date_start: '2023-01-02'
             date_end: ''
             description: |2-
                 Responsibilities include:
