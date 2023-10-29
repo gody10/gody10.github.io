@@ -103,7 +103,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Honors and&shy;Awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -121,6 +121,15 @@ sections:
           organization_url: https://www.epo.org/en
           title: Winner of the European Patent Office 2023 Codefest
           url: 'https://www.epo.org/en/news-events/news/epo-announces-codefest-winners'
+        - certificate_url: http://www.nobelpeacesummit.com/the-world-summit-of-nobel-peace-laureates/merida-2019/
+          date_end: ''
+          date_start: '2019-09-01'
+          description: ''
+          organization: World Summit of Nobel Peace Laureates
+          organization_url: http://www.nobelpeacesummit.com
+          title: Greek Youth Ambassador at xvii World Summit of Nobel Peace Laureates
+          url: 'https://eimai.org/2019-world-summit-nobel-peace-laureates'
+        
     design:
       columns: '2'
   - block: collection
