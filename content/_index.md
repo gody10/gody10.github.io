@@ -95,7 +95,7 @@ sections:
           company_url: 'https://www.aueb.gr/en'
           company_logo: helvia_technologies_logo
           location: Athens
-          date_start: '2022-06-31'
+          date_start: '2022-31-06'
           date_end: ''
           description: |2-
               Responsibilities include:
