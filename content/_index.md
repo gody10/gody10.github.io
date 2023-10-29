@@ -129,6 +129,14 @@ sections:
           organization_url: http://www.nobelpeacesummit.com
           title: Greek Youth Ambassador at xvii World Summit of Nobel Peace Laureates
           url: 'https://eimai.org/2019-world-summit-nobel-peace-laureates'
+        - certificate_url: https://www.acg.edu/admissions/undergraduate-admissions/admission-process/greek-students/financial-assistance/the-stavros-niarchos-foundation-scholarship-program/
+          date_end: ''
+          date_start: '2019-08-30'
+          description: 'Sholarship awarded to study Philosophy at Deree - The American College of Greece'
+          organization: Stavros Niarxos Foundation Cultural Center
+          organization_url: https://www.snfcc.org
+          title: Scholarship
+          url: 'https://www.acg.edu/admissions/undergraduate-admissions/admission-process/greek-students/financial-assistance/the-stavros-niarchos-foundation-scholarship-program/'
         
     design:
       columns: '2'
