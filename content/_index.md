@@ -90,7 +90,7 @@ sections:
               * Performing API Calls
               * Participating in codefests and other contests like the European Patent Office (EPO) 2023 Codefest (1st Place achieved!)
               * Helping with research publishing
-        - title: Machine Learning Research Engineer
+        - title: Research and Teacher Assistant
           company: Helvia
           company_url: 'https://helvia.ai'
           company_logo: helvia_technologies_logo
