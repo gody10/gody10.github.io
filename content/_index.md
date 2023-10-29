@@ -62,7 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        
+        - title: Machine Learning Research Engineer
+          company: Plegma Labs
+          company_url: 'https://pleg.ma'
+          company_logo: org-gc
+          location: Athens, Greece
+          date_start: '01-02-2023'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Conducting research on Residential Energy Consumption
+              * Building complex Reinforcement Learning environments
+              * Training and deploying Reinforcement Learning agents
     design:
       columns: '2'
   - block: accomplishments
