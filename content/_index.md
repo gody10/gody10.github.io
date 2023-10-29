@@ -97,12 +97,7 @@ sections:
           location: Athens, Greece
           date_start: '2022-06-30'
           date_end: ''
-          description: |2-
-                Responsibilities include:
-
-                * Conducting research on Appliance Scheduling and Residential Energy Consumption
-                * Utilizing Reinforcement Learning tools
-                * Helping in assignment correction and examination in the undergraduate courses of Mathematics 1 and Data Bases
+          description: Conducting research on Reinforcement Learning as a member of the Mobile Multimedia Laboratory (MMlab). Specifically, exploring Appliance Scheduling methods in order to cut energy costs using Reinforcement Learning techniques. Teaching assistant on AUEB BSc courses of "Mathematics 1" and "Data Bases"
     design:
       columns: '2'
   - block: accomplishments
