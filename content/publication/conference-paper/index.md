@@ -7,7 +7,7 @@ title: 'Making LLMsWorth Every Penny: Resource-Limited Text Classification in Fi
 authors:
   - admin
   - Ilias-Marios Stogiannidis
-  - Makis Malakasiotis
+  - Prodromos Malakasiotis
   - Stavros Vassos
   - Lefteris Loukas
 
@@ -28,10 +28,10 @@ publishDate: 'tbd'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Financial Technology and Natural Language Processing*
-publication_short: In *FinNLP*
+publication: In Proceedings of the  *4th ACM International Conference on AI in Finance*
+publication_short: In *ICAIF*
 
-abstract: Standard Full-Data classifiers in NLP demand thousands of labeled examples, which is impractical in data-limited domains. Fewshot methods offer an alternative, utilizing contrastive learning techniques that can be effective with as little as 20 examples per class. Similarly, Large Language Models (LLMs) like GPT-4 can perform effectively with just 1-5 examples per class. However, the performance-cost trade-offs of these methods remain underexplored, a critical concern for budget-limited organizations. Our work addresses this gap by studying the aforementioned approaches over the Banking77 financial intent detection dataset, including the evaluation of cutting-edge LLMs by OpenAI, Cohere, and Anthropic in a comprehensive set of few-shot scenarios. We complete the picture with two additional methods: first, a cost-effective querying method for LLMs based on retrieval-augmented generation (RAG), able to reduce operational costs multiple times compared to classic few-shot approaches, and second, a data augmentation method using GPT-4, able to improve performance in data-limited scenarios. Finally, to inspire future research, we provide a human expert’s curated subset of Banking77, along with extensive error analysis.
+abstract: Standard Full-Data classifiers in NLP demand thousands of labeled examples, which is impractical in data-limited domains. Fewshot methods offer an alternative, utilizing contrastive learning techniques that can be effective with as little as 20 examples per class. Similarly, Large Language Models (LLMs) like GPT-4 can perform effectively with just 1-5 examples per class. However, the performance-cost trade-offs of these methods remain underexplored, a critical concern for budget-limited organizations. Our work addresses this gap by studying the aforementioned approaches over the Banking77 financial intent detection dataset, including the evaluation of cutting-edge LLMs by OpenAI, Cohere, and Anthropic in a comprehensive set of few-shot scenarios. We complete the picture with two additional methods. First, a cost-effective querying method for LLMs based on retrieval-augmented generation (RAG), able to reduce operational costs multiple times compared to classic few-shot approaches, and second, a data augmentation method using GPT-4, able to improve performance in data-limited scenarios. Finally, to inspire future research, we provide a human expert’s curated subset of Banking77, along with extensive error analysis.
 
 # Summary. An optional shortened abstract.
 summary: 
