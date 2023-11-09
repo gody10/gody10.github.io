@@ -39,7 +39,7 @@ publication_types: ['paper-conference']
 publication: In Proceedings of the  *SYNERGY-2023 Conference on Smart and Innovative eNERGY management*
 publication_short: In *SYNERGY-2023*
 
-abstract: The project energy oPtimization of building Internet Of Things Infrastructures in a Stratified way presented a holistic approach for an AI-enabled EMS for building-level energy management and max- imizing renewable energy sources utilization. The solution integrated a Photovoltaics (PV) generation forecasting module, a building energy demand forecasting module, and an energy task scheduling and optimization component. This paper presents the methodology and preliminary results regarding the PV generation forecasting and energy task scheduling modules tested for the premises of Institute Mihajlo Pupin.
+abstract: The project energy Optimization of building Internet Of Things Infrastructures in a Stratified way presented a holistic approach for an AI-enabled EMS for building-level energy management and max- imizing renewable energy sources utilization. The solution integrated a Photovoltaics (PV) generation forecasting module, a building energy demand forecasting module, and an energy task scheduling and optimization component. This paper presents the methodology and preliminary results regarding the PV generation forecasting and energy task scheduling modules tested for the premises of Institute Mihajlo Pupin.
 
 # Summary. An optional shortened abstract.
 summary: 
