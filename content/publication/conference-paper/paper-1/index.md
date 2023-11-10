@@ -50,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ai-finance.org/icaif-23-accepted-papers/'
+url_pdf: 'conference-paper'
 url_code: ''
 url_dataset: ''
 url_poster: ''
