@@ -1,5 +1,5 @@
 ---
-title: 'Making LLMsWorth Every Penny: Resource-Limited Text Classification in Finance'
+title: 'Making LLMs Worth Every Penny: Resource-Limited Text Classification in Banking'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
