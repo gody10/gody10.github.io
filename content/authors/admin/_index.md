@@ -142,5 +142,5 @@ social:
 highlight_name: true
 ---
 
-Odyssefs Diamantopoulos-Pantaleon is a MSc student at the Athens University of Economics and Business. He is also a Machine Learning Research Engineer at Plegma Labs, Helvia and the Mobile Multimedia Laboratory. His research interests include Reinforcement Learning, Natural Language Processing and Large Language models.
+My name is Odyssefs Diamantopoulos-Pantaleon and I am a MSc student at the Athens University of Economics and Business. I am also working as a contracted Machine Learning Research Engineer at Plegma Labs, Helvia and the Mobile Multimedia Laboratory. My research interests include Reinforcement Learning, Natural Language Processing and Large Language models.
 {style="text-align: justify;"}
