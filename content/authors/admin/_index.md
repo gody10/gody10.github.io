@@ -138,7 +138,7 @@ social:
     icon_pack: ai
     link: uploads/short_cv.pdf
     
-  - icon: graduation-cap
+  - icon: book-open
     icon_pack: ai
     link: uploads/diploma_thesis_final.pdf
 
