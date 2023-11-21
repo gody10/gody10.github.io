@@ -137,6 +137,10 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/short_cv.pdf
+    
+  - icon: graduation-cap
+    icon_pack: ai
+    link: uploads/diploma_thesis_final.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
