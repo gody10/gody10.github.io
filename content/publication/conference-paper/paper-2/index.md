@@ -54,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://easychair.org/cfp/SYNERGY-2023'
+url_pdf: 'https://mm.aueb.gr/publications/8a9473d2-0f74-4ac4-98ca-4706fb730332.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
