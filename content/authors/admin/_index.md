@@ -29,10 +29,10 @@ bio: My research interests include Reinforcement Learning, Natural Language Proc
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - Reinforcement Learning
   - Natural Language Processing
   - Large Language Models
+  - Robotics
 
 # Education to show in About widget
 education:
