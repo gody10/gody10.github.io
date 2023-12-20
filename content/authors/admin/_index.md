@@ -39,7 +39,7 @@ education:
   courses:
     - course: MSc in Computer Science
       institution: Athens University of Economics and Business
-      year: 2022-Present
+      year: 2022-2023
     - course: BSc in Computer Science
       institution: Athens University of Economics and Business
       year: 2018-2022
