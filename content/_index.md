@@ -68,7 +68,7 @@ sections:
           company_logo: helvia
           location: Athens, Greece
           date_start: '2022-11-01'
-          date_end: '2024-06-31'
+          date_end: '2024-31-06'
           description: |2-
               Responsibilities include:
 
