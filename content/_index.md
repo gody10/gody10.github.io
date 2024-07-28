@@ -63,25 +63,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Machine Learning Research Engineer
-          company: Plegma Labs
-          company_url: 'https://pleg.ma'
-          company_logo: plegma_labs
-          location: Athens, Greece
-          date_start: '2023-02-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Conducting research on Residential Energy Consumption
-              * Building complex Reinforcement Learning environments
-              * Training and deploying Reinforcement Learning agents
-        - title: Machine Learning Research Engineer
           company: Helvia
           company_url: 'https://helvia.ai'
           company_logo: helvia
           location: Athens, Greece
           date_start: '2022-11-01'
-          date_end: ''
+          date_end: '2024-06-31'
           description: |2-
               Responsibilities include:
 
@@ -90,13 +77,26 @@ sections:
               * Performing API Calls
               * Participating in codefests and other contests like the European Patent Office (EPO) 2023 Codefest (1st Place achieved!)
               * Helping with research publishing
+        - title: Machine Learning Research Engineer
+          company: Plegma Labs
+          company_url: 'https://pleg.ma'
+          company_logo: plegma_labs
+          location: Athens, Greece
+          date_start: '2023-02-01'
+          date_end: '2024-01-01'
+          description: |2-
+              Responsibilities include:
+
+              * Conducting research on Residential Energy Consumption
+              * Building complex Reinforcement Learning environments
+              * Training and deploying Reinforcement Learning agents
         - title: Research and Teacher Assistant
           company: Athens University of Economics and Business
           company_url: 'https://www.aueb.gr/en'
           company_logo: aueb
           location: Athens, Greece
           date_start: '2022-06-30'
-          date_end: ''
+          date_end: '2024-01-01'
           description: Conducting research on Reinforcement Learning as a member of the Mobile Multimedia Laboratory (MMlab). Specifically, exploring Appliance Scheduling methods in order to cut energy costs using Reinforcement Learning techniques. Teaching assistant on AUEB BSc courses of "Mathematics 1" and "Data Bases"
     design:
       columns: '2'
@@ -113,6 +113,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: https://helvia.ai/blog/the-ai4epo-team-winner-of-epo-codefest/
+          date_end: ''
+          date_start: '2024-02-01'
+          description: ''
+          organization: University of New Mexico
+          organization_url: https://www.unm.edu
+          title: International Amigo Scholarship
+          url: 'https://leapscholar.com/scholarship-finder/international-amigo-scholarship'
         - certificate_url: https://helvia.ai/blog/the-ai4epo-team-winner-of-epo-codefest/
           date_end: ''
           date_start: '2023-02-23'
