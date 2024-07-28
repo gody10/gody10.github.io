@@ -113,7 +113,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://helvia.ai/blog/the-ai4epo-team-winner-of-epo-codefest/
+        - certificate_url: https://leapscholar.com/scholarship-finder/international-amigo-scholarship
           date_end: ''
           date_start: '2024-02-01'
           description: 'Sholarship awarded to pursue a PhD in Computer Science at the University of New Mexico'
