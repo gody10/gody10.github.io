@@ -116,7 +116,7 @@ sections:
         - certificate_url: https://helvia.ai/blog/the-ai4epo-team-winner-of-epo-codefest/
           date_end: ''
           date_start: '2024-02-01'
-          description: ''
+          description: 'Sholarship awarded to pursue a PhD in Computer Science at the University of New Mexico'
           organization: University of New Mexico
           organization_url: https://www.unm.edu
           title: International Amigo Scholarship
