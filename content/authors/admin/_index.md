@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSc Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Athens University of Economics and Business
-    url: https://www.aueb.gr/en
+  - name: University of New Mexico
+    url: https://www.unm.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Reinforcement Learning, Natural Language Processing, and Large Language Models. However, I always seek to expand my knowledge and embrace new opportunities.
@@ -32,11 +32,13 @@ interests:
   - Reinforcement Learning
   - Natural Language Processing
   - Large Language Models
-  - Robotics
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: University of New Mexico
+      year: 2024-present
     - course: MSc in Computer Science
       institution: Athens University of Economics and Business
       year: 2022-2023
@@ -83,12 +85,12 @@ skills:
     items:
       - name: Volleyball
         description: ''
-        percent: 90
+        percent: 80
         icon: volleyball
         icon_pack: fas
       - name: Philosophy
         description: ''
-        percent: 75
+        percent: 95
         icon: book
         icon_pack: fas
       - name: Dogs
@@ -98,7 +100,7 @@ skills:
         icon_pack: fas
       - name: Gaming
         description: ''
-        percent: 85
+        percent: 90
         icon: gamepad
         icon_pack: fas
       - name: Running
@@ -131,9 +133,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/odyssefs-diamantopoulos/
-  - icon: book-open
-    icon_pack: fas
-    link: uploads/diploma_thesis_final.pdf
+    
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -146,5 +146,5 @@ social:
 highlight_name: true
 ---
 
-My name is Odyssefs Diamantopoulos-Pantaleon and I am a MSc student at the Athens University of Economics and Business. I am also working as a contracted Machine Learning Research Engineer at Plegma Labs, Helvia and the Mobile Multimedia Laboratory. My research interests include Reinforcement Learning, Natural Language Processing and Large Language models.
+My name is Odyssefs Diamantopoulos-Pantaleon and I am a PhD student at the University of New Mexico. My research interests include Reinforcement Learning, Natural Language Processing and Large Language models.
 {style="text-align: justify;"}
