@@ -150,9 +150,7 @@ Hi I am Odysseas (pronounced as oh - dh ee s - s EH - aa s), I am currently a Ph
 
 My prior studies include a MSc, a BSc and a Minor degree. More specifically, I completed my MSc and my BSc in Computer Science at the [Athens University of Economics and Business (AUEB)](https://aueb.gr/en) under the supervision of Prof. [George C. Polyzos](https://www.aueb.gr/en/faculty_page/polyzos-george) and my Minor in Philosophy at [Deree - The American College of Greece](https://www.acg.edu/). I have also worked as an Applied Machine Learning Researcher at [Helvia.ai](https://helvia.ai/), specializing in NLP research and the utilization of state-of-the-art Large Language Models, and at [Plegma Labs](https://pleg.ma/), specializing in creating an RL agent-manager that would optimize energy consumption in Smart Homes.
 
-Feel free to reach out to me if you are interested in collaborating or if you have any questions about my research! The time in my area is: 
-
-<span id="current-time"></span>
+Feel free to reach out to me if you are interested in collaborating or if you have any questions about my research! The time in my area is: <span id="current-time"></span>
 <script>
   setInterval(() => {
     const now = new Date();
