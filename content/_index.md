@@ -74,7 +74,6 @@ sections:
 
               * Conducting research on the fields of Natural Language Processing and Large Language Models
               * Building complex models and pipelines
-              * Performing API Calls
               * Participating in codefests and other contests like the European Patent Office (EPO) 2023 Codefest (1st Place achieved!)
               * Helping with research publishing
         - title: Machine Learning Research Engineer

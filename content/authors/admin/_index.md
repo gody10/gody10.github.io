@@ -57,7 +57,7 @@ skills:
     items:
     - name: Pandas
       description: ''
-      percent: 100
+      percent: 95
       icon: python
       icon_pack: fab
     - name: Gymnasium
@@ -70,9 +70,9 @@ skills:
       percent: 80
       icon: brain
       icon_pack: fas
-    - name: RL
+    - name: ray
       description: ''
-      percent: 100
+      percent: 93
       icon: brain
       icon_pack: fas
     - name: Python
