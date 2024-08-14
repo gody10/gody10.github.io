@@ -3,7 +3,7 @@
 title: Odyssefs Diamantopoulos-Pantaleon
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation:  oh - dh ee s - s EH - aa s
 
 # Full name (for SEO)
 first_name: Odyssefs
@@ -146,5 +146,17 @@ social:
 highlight_name: true
 ---
 
-My name is Odyssefs Diamantopoulos-Pantaleon and I am a PhD student at the University of New Mexico. My research interests include Reinforcement Learning, Natural Language Processing and Large Language models.
+I am currently a PhD student at the University of [New Mexico](https://www.unm.edu/), under the supervision of Prof. [Eirini Eleni Tsiropoulou](http://www.ece.unm.edu/faculty-staff/electrical-and-computer/eirini-eleni-tsiropoulou.html),  and a member of the [PROTON Lab](https://magwang1.github.io/). My research focuses on leveraging Reinforcement Learning (RL) techniques to solve real-world complex problems. I am particularly interested in creating agents that will be able to tackle tough challenges in fields such as Edge AI, Smart Grid Systems, Electric Vehicle Networks and Multimodal applications, and Natural Language Processing (NLP) applications.
+
+My prior studies include a MSc, a BSc and a Minor degree. More specifically, I completed my MSc and my BSc in Computer Science at the [Athens University of Economics and Business (AUEB)](https://aueb.gr/en) under the supervision of Prof. [George C. Polyzos](https://www.aueb.gr/en/faculty_page/polyzos-george) and my Minor in Philosophy at [Deree - The American College of Greece](https://www.acg.edu/). I have also worked as an Applied Machine Learning Researcher at [Helvia.ai](https://helvia.ai/), specializing in NLP research and the utilization of state-of-the-art Large Language Models, and at [Plegma Labs](https://pleg.ma/), specializing in creating an RL agent-manager that would optimize energy consumption in Smart Homes.
+
+Feel free to reach out to me if you are interested in collaborating or if you have any questions about my research! The time in my area is: <span id="current-time"></span>
+
+<script>
+  setInterval(() => {
+    const now = new Date();
+    const options = { hour: '2-digit', minute: '2-digit' ,timeZone: 'America/Mountain Time'};
+    document.getElementById('current-time').textContent = now.toLocaleTimeString([], options);
+  }, 1000);
+</script>
 {style="text-align: justify;"}
