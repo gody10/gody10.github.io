@@ -76,6 +76,15 @@ sections:
               * Building complex models and pipelines
               * Participating in codefests and other contests like the European Patent Office (EPO) 2023 Codefest (1st Place achieved!)
               * Helping with research publishing
+        - title: Research and Teacher Assistant
+          company: Athens University of Economics and Business
+          company_url: 'https://www.aueb.gr/en'
+          company_logo: aueb
+          location: Athens, Greece
+          date_start: '2022-06-30'
+          date_end: '2024-06-30'
+          description: Conducting research on Reinforcement Learning as a member of the Mobile Multimedia Laboratory (MMlab). Specifically, exploring Appliance Scheduling methods in order to cut energy costs using Reinforcement Learning techniques. Teaching assistant on AUEB BSc courses of "Mathematics 1" and "Data Bases"
+
         - title: Machine Learning Research Engineer
           company: Plegma Labs
           company_url: 'https://pleg.ma'
@@ -89,14 +98,7 @@ sections:
               * Conducting research on Residential Energy Consumption
               * Building complex Reinforcement Learning environments
               * Training and deploying Reinforcement Learning agents
-        - title: Research and Teacher Assistant
-          company: Athens University of Economics and Business
-          company_url: 'https://www.aueb.gr/en'
-          company_logo: aueb
-          location: Athens, Greece
-          date_start: '2022-06-30'
-          date_end: '2024-01-01'
-          description: Conducting research on Reinforcement Learning as a member of the Mobile Multimedia Laboratory (MMlab). Specifically, exploring Appliance Scheduling methods in order to cut energy costs using Reinforcement Learning techniques. Teaching assistant on AUEB BSc courses of "Mathematics 1" and "Data Bases"
+        
     design:
       columns: '2'
   - block: accomplishments
