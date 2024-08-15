@@ -144,7 +144,7 @@ sections:
           description: 'Sholarship awarded to study Philosophy at Deree - The American College of Greece'
           organization: Stavros Niarxos Foundation Cultural Center
           organization_url: https://www.snfcc.org
-          title: Scholarship
+          title: Stavros Niarxos Foundation Scholarship
           url: 'https://www.acg.edu/admissions/undergraduate-admissions/admission-process/greek-students/financial-assistance/the-stavros-niarchos-foundation-scholarship-program/'
         
     design:
