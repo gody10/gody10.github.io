@@ -30,7 +30,7 @@ bio: My research interests include Reinforcement Learning, Natural Language Proc
 # Interests to show in About widget
 interests:
   - Reinforcement Learning
-  - Agent Decision Making in Complex Environment
+  - Agent Decision Making in Complex Environments
   - Multi-Agent Decision Making
   - Multimodality
 
