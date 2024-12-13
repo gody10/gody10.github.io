@@ -1,12 +1,12 @@
 ---
-title: 'EMS-env: A Reinforcement Learning Framework for Residential Energy Efficiency Recommendations'
+title: 'Building energy efficiency recommendations with reinforcement learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Spiros Chadoulos
   - admin
+  - Spiros Chadoulos
   - Iordanis Koutsopoulos
   - George C. Polyzos
   - Nikolaos Ipiotis
@@ -20,8 +20,8 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-09-01T00:00:00Z'
-doi: '10.1109/SmartGridComm60555.2024.10738082'
+date: '2023-06-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 'tbd'
@@ -32,10 +32,22 @@ publishDate: 'tbd'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Published in *2024 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)*
-publication_short: In *2024 (SmartGridComm)*
+publication: Published in *2023 Gender Equality Conference in Athens, Greece*
+publication_short: In *2023 GEC Greece*
 
-abstract: Personalized device-level energy consumption recommendations towards energy efficiency can have a notable impact both on electricity bills and on the overall energy supply-demand balance. End-user behavior regarding device activation is usually unknown a priori, thus giving rise to a highly dynamic environment. Hence, Reinforcement Learning (RL) can be utilized for device scheduling and consumption recommendations since it constitutes an Artificial Intelligence (AI) framework that learns a control policy in a dynamic environment through trying actions and observing incurred rewards. However, existing works on energy consumption recommendations do not explicitly take into account human feedback and preferences regarding the issued recommendations, and they train a single RL agent per device, hence missing the human behavior interdependencies in using different devices. In addition, a flexible open-source RL environment model that integrates user behavior in a Markov Decision Process (MDP) model is missing. In this paper, we propose an MDP-driven RL framework for energy efficiency recommendations that jointly learns the user’s behavior for multiple devices. The proposed model is wrapped as an open-source customizable Gymnasium environment, named EMS-env, for multi-device energy efficiency recommendations. EMS-env can simulate different types of consumer behavior profiles based on the MDP model and supports different device types as well as user feedback. Validation experiments demonstrate the framework’s merits and hyperparameters for diverse use cases in terms of user simulation models and RL training policies, resulting in decreased energy costs while maintaining end-user satisfaction.
+abstract: With buildings accounting for a significant portion of the
+grid’s total energy demand, it is evident that consumers
+should be engaged in energy efficiency. In this work, we
+propose a reinforcement learning approach that conducts energy
+efficiency recommendations for buildings, in the form
+of load-shift suggestions for different devices/assets. The
+adopted methodology can continuously learn consumer energy
+behavior and preferences to minimize energy costs,
+while preserving comfort by jointly training a single agent
+for all the building assets. The agent utilizes user feedback on
+the recommendations and integrates it in the reward function.
+Preliminary experiment results with simulated data
+show that the agent’s reward is increasing throughout time.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -50,7 +62,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10738082'
+url_pdf: 'https://mm.aueb.gr/publications/de7ff17c-dff8-4fbb-bc94-76c984d4c894.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,7 +74,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**SMARTGRIDCOMM**](https://sgc2024.ieee-smartgridcomm.org)'
+  caption: 'Image credit: [**GEC 2023**](http://gec23.aueb.gr/)'
   focal_point: ''
   preview_only: false
 
