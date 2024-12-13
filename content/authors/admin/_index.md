@@ -30,6 +30,8 @@ bio: I am academically interested in creating smart AI agents that are able to p
 # Interests to show in About widget
 interests:
   - Reinforcement Learning
+  - Agent Decision Making in Complex Environments
+  - Multi-Agent Decision Making
   - Game Theory
   - Multimodality
 
