@@ -1,21 +1,17 @@
 ---
-title: 'EMS-env: A Reinforcement Learning Framework for Residential Energy Efficiency Recommendations'
+title: 'Cybersecurity Certification Requirements for Distributed Energy Resources: A Survey of SunSpec Alliance Standards'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Spiros Chadoulos
+  - Sean Tsikteris
   - admin
-  - Iordanis Koutsopoulos
-  - George C. Polyzos
-  - Nikolaos Ipiotis
+  - Eirini Eleni Tsiropoulou
   
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'
@@ -32,15 +28,15 @@ publishDate: 'tbd'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Published in *2024 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)*
-publication_short: In *2024 SmartGridComm*
+publication: Published in *2024 Energies*
+publication_short: In *2024 Energies*
 
-abstract: Personalized device-level energy consumption recommendations towards energy efficiency can have a notable impact both on electricity bills and on the overall energy supply-demand balance. End-user behavior regarding device activation is usually unknown a priori, thus giving rise to a highly dynamic environment. Hence, Reinforcement Learning (RL) can be utilized for device scheduling and consumption recommendations since it constitutes an Artificial Intelligence (AI) framework that learns a control policy in a dynamic environment through trying actions and observing incurred rewards. However, existing works on energy consumption recommendations do not explicitly take into account human feedback and preferences regarding the issued recommendations, and they train a single RL agent per device, hence missing the human behavior interdependencies in using different devices. In addition, a flexible open-source RL environment model that integrates user behavior in a Markov Decision Process (MDP) model is missing. In this paper, we propose an MDP-driven RL framework for energy efficiency recommendations that jointly learns the user’s behavior for multiple devices. The proposed model is wrapped as an open-source customizable Gymnasium environment, named EMS-env, for multi-device energy efficiency recommendations. EMS-env can simulate different types of consumer behavior profiles based on the MDP model and supports different device types as well as user feedback. Validation experiments demonstrate the framework’s merits and hyperparameters for diverse use cases in terms of user simulation models and RL training policies, resulting in decreased energy costs while maintaining end-user satisfaction.
+abstract: This survey paper explores the cybersecurity certification requirements defined by the SunSpec Alliance for Distributed Energy Resource (DER) devices, focusing on aspects such as software updates, device communications, authentication mechanisms, device security, logging, and test procedures. The SunSpec cybersecurity standards mandate support for remote and automated software updates, secure communication protocols, stringent authentication practices, and robust logging mechanisms to ensure operational integrity. Furthermore, the paper discusses the implementation of the SAE J3072 standard using the IEEE 2030.5 protocol, emphasizing the secure interactions between electric vehicle supply equipment (EVSE) and plug-in electric vehicles (PEVs) for functionalities like vehicle-to-grid (V2G) capabilities. This research also examines the SunSpec Modbus standard, which enhances the interoperability among DER system components, facilitating compliance with grid interconnection standards. This paper also analyzes the existing SunSpec Device Information Models, which standardize data exchange formats for DER systems across communication interfaces. Finally, this paper concludes with a detailed discussion of the energy storage cybersecurity specification and the blockchain cybersecurity requirements as proposed by SunSpec Alliance.
 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: [Reinforcement Learning, Energy task scheduling, Smart Homes]
+tags: [distributed energy resources, SunSpec, electric vehicles, cybersecurity]
 
 # Display this page in the Featured widget?
 featured: true
@@ -50,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10738082'
+url_pdf: 'https://www.mdpi.com/1996-1073/17/19/5017'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**SMARTGRIDCOMM**](https://sgc2024.ieee-smartgridcomm.org)'
+  caption: 'Image credit: [**Energies**](https://www.mdpi.com/1996-1073/17/19/5017)'
   focal_point: ''
   preview_only: false
 
