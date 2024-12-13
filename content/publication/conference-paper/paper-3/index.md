@@ -35,19 +35,8 @@ publication_types: ['paper-conference']
 publication: Published in *2023 Gender Equality Conference in Athens, Greece*
 publication_short: In *2023 GEC Greece*
 
-abstract: With buildings accounting for a significant portion of the
-grid’s total energy demand, it is evident that consumers
-should be engaged in energy efficiency. In this work, we
-propose a reinforcement learning approach that conducts energy
-efficiency recommendations for buildings, in the form
-of load-shift suggestions for different devices/assets. The
-adopted methodology can continuously learn consumer energy
-behavior and preferences to minimize energy costs,
-while preserving comfort by jointly training a single agent
-for all the building assets. The agent utilizes user feedback on
-the recommendations and integrates it in the reward function.
-Preliminary experiment results with simulated data
-show that the agent’s reward is increasing throughout time.
+abstract: With buildings accounting for a significant portion of the grid’s total energy demand, it is evident that consumers should be engaged in energy efficiency. In this work, we propose a reinforcement learning approach that conducts energy efficiency recommendations for buildings, in the form
+of load-shift suggestions for different devices/assets. The adopted methodology can continuously learn consumer energy behavior and preferences to minimize energy costs, while preserving comfort by jointly training a single agent for all the building assets. The agent utilizes user feedback on the recommendations and integrates it in the reward function. Preliminary experiment results with simulated data show that the agent’s reward is increasing throughout time.
 
 # Summary. An optional shortened abstract.
 summary: 
