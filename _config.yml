@@ -23,9 +23,9 @@ repository               : "gody10/gody10.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : "Odysseas Diamantopoulos Pantaleon"
+  name             : "Odyssefs Diamantopoulos Pantaleon"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am academically interested in creating smart AI agents that are able to perform and adapt in dynamic environments. I am mainly utilizing Reinforcement Learning, Game Theory and Multimodality to achieve my goals."
   location         : "Tempe/AZ"
   employer         : "Arizona State University"
   uri              : # URL
