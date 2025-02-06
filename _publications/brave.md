@@ -3,8 +3,8 @@ title: "BRAVE: Benefit-Aware Data Offloading in UAV Edge Computing Using Multi-A
 collection: publications
 category: manuscripts
 permalink: /publication/brave
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+excerpt: ''
+date: 2025-02-01
 venue: 'Simulation Modelling Practice and Theory'
 slidesurl: 
 paperurl: 
