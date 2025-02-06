@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
-title                    : "Home Page"
+site_theme               : "default"
+title                    : "Personal Information"
 title_separator          : "-"
 name                     : &name "Odyssefs Diamantopoulos Pantaleon"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
   location         : "Tempe/Arizona/USA"
   employer         : "Arizona State University"
   uri              : # URL
-  email            : "odiamantopoulospantaleon@gmail.edu" 
+  email            : "o.diamantopoulospantaleon@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
