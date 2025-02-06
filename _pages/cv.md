@@ -13,18 +13,18 @@ redirect_from:
 
 - **Ph.D. in Computer Engineering (Electrical Engineering), Arizona State University (ASU)** *(01/2025 - Present)*  
   Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab  
-- **Ph.D. in Electrical and Computer Engineering, University of New Mexico (UNM)** *(08/2024 - 12/2024)*  
-  Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab  
+- **Ph.D. in Electrical and Computer Engineering, University of New Mexico (UNM)** *(08/2024 - 12/2024)* 
+  Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab, **International Amigo Scholar**
 - **M.Sc. in Computer Science, Athens University of Economics and Business (AUEB)** *(09/2022 - 11/2023)*  
   **Grade: 9.36/10**  
   Master thesis: "Residential Energy Consumption Optimization through Reinforcement Learning"  
   Supervisors: George C. Polyzos and Iordanis Koutsopoulos  
 - **B.Sc. in Computer Science, Athens University of Economics and Business (AUEB)** *(09/2018 - 07/2022)*  
-  **Grade: 8.19/10**, Top 6% of all alumni (2017-2022)  
+  **Grade: 8.19/10, Top 6% of all alumni** (2017-2022)  
   Bachelor thesis: "Ethereum-Crypto-Card game built on Unity"  
   Supervisor: George C. Polyzos  
 - **Minor in Philosophy, Deree - The American College of Greece** *(09/2019 - 06/2021)*  
-  Stavros Niarchos Foundation Scholar, Minor in Ethics and Metaphysics, **Degree Grade: A**  
+  **Degree Grade: A, Stavros Niarchos Foundation Scholar**, Minor in Ethics and Metaphysics 
 - **High School Education, Pierce - The American College of Greece** *(09/2012 - 07/2018)*  
   **Graduation Grade: 19.8/20**, Graduated 1st in class  
 
