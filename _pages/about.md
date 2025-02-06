@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I am Odysseas (pronounced as oh - dh ee s - s EH - aa s). I am currently a PhD student at the [Arizona State University](https://www.asu.edu), under the supervision of Prof. [Eirini Eleni Tsiropoulou](https://sites.google.com/view/eirini-eleni-tsiropoulou/home),  and a member of the PROTON Lab. 
+Hi I am Odysseas (pronounced as oh - dh ee s - s EH - aa s). I am currently a PhD student at [Arizona State University](https://www.asu.edu), under the supervision of Prof. [Eirini Eleni Tsiropoulou](https://sites.google.com/view/eirini-eleni-tsiropoulou/home),  and a member of the PROTON Lab. 
 
 My research interests are focused on leveraging AI to solve real-life problems. I believe the future will be shaped by intelligent agents, foundly transforming society—from everyday jobs to the education system. I have extensive experience with problem modeling and solving, leveraging Optimization techniques, Game Theory and Reinforcement learning. I also have hands-on experience with Large Language Models, Transformer architectures, embedding models such as BERT, and computer vision models, which I’ve applied to solve problems like patent prediction and classification, chat bot creation and residential energy manager training.
 
