@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Statement"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 Hi I am Odysseas (pronounced as oh - dh ee s - s EH - aa s). I am currently a PhD student at the [Arizona State University](https://www.asu.edu), under the supervision of Prof. [Eirini Eleni Tsiropoulou](https://sites.google.com/view/eirini-eleni-tsiropoulou/home),  and a member of the PROTON Lab. My research focuses on leveraging Reinforcement Learning (RL) techniques to solve real-world complex problems. I am particularly interested in creating agents that will be able to tackle tough challenges in fields such as Edge AI, Smart Grid Systems, Electric Vehicle Networks and other Multimodal applications.
 
-My prior studies include a MSc, a BSc and a Minor degree. More specifically, I completed my MSc and my BSc in Computer Science at the [Athens University of Economics and Business (AUEB)](https://aueb.gr/en) under the supervision of Prof. [George C. Polyzos](https://www.aueb.gr/en/faculty_page/polyzos-george) and my Minor in Philosophy at [Deree - The American College of Greece](https://www.acg.edu/). I have also worked as an Applied Machine Learning Researcher at [Helvia.ai](https://helvia.ai/), specializing in the creation of chat agents that utilized state-of-the-art NLP techniques and LLM models , and at [Plegma Labs](https://pleg.ma/), specializing in the creation of RL agents that optimized energy consumption and electricity costs in Smart Homes.
+My prior studies include a MSc, a BSc and a Minor degree. More specifically, I completed my MSc and my BSc in Computer Science at the [Athens University of Economics and Business (AUEB)](https://aueb.gr/en) under the supervision of Prof. [George C. Polyzos](https://www.aueb.gr/en/faculty_page/polyzos-george) and my Minor in Philosophy at [Deree - The American College of Greece](https://www.acg.edu/).
 
 Feel free to reach out to me if you are interested in collaborating or if you have any questions about my research! The time in my area is: <span id="current-time"></span>
 <script>
@@ -19,4 +19,3 @@ Feel free to reach out to me if you are interested in collaborating or if you ha
     document.getElementById('current-time').textContent = now.toLocaleTimeString([], options);
   }, 1000);
 </script>
-{style="text-align: justify;"}
