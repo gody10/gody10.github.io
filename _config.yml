@@ -25,7 +25,10 @@ author:
   avatar           : "avatar.jpg"
   name             : "Odyssefs Diamantopoulos Pantaleon"
   pronouns         : # example: "she/her"  
-  bio              : "I am academically interested in creating smart AI agents that are able to perform and adapt in dynamic environments. I am mainly utilizing Reinforcement Learning, Game Theory and Multimodality to achieve my goals."
+  bio              : "My research interests are focused on leveraging AI to solve real-life problems. I believe the future will be shaped by intelligent agents, foundly transforming society—from everyday jobs to the education system. I have extensive experience
+                      with problem modeling and solving, leveraging Optimization techniques, Game Theory and Reinforcement learning. I also
+                      have hands-on experience with Large Language Models, Transformer architectures, embedding models such as BERT, and
+                      computer vision models, which I’ve applied to solve problems in natural language processing and image analysis."
   location         : "Tempe/AZ"
   employer         : "Arizona State University"
   uri              : # URL
