@@ -6,7 +6,7 @@ permalink: /publication/tandem
 excerpt: 'Index Terms—Sustainable Computing, Social-aware Trust, Game Theory, Network Economics, Edge Computing.'
 date: 2025-01-10
 venue: 'IEEE International Conference on Communications'
-paperurl: 'files/tandem'
+paperurl: 'files/tandem.pdf'
 citation: '2025, Odyssefs Diamantopoulos Pantaleon, Aisha B Rahman, and E. E. Tsiropoulou, "TANDEM: Trust-aware Sustainable Data Offloading in Multi-access Edge Computing", IEEE ICC 2025, Accepted'
 ---
 The need to maintain efficient and environmentally responsible data processing at the network edge has introduced a new research field in the area of edge computing sustainability.
