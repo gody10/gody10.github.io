@@ -3,7 +3,7 @@ title: "CLEOS: Contract-Theoretic Federated Learning through Over-the-Air-Comput
 collection: publications
 category: conferences
 permalink: /publication/cleos
-excerpt: 'In this paper we leverage Over-the-Air-Computing to create a robust Federated learning framework than can be deployed in the real world'
+excerpt: 'Index Terms- Federated Learning, Over-the-Air-Computing'
 date: 2025-03-01
 venue: 'IEEE Globecomm'
 paperurl: ''

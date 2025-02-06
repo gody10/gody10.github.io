@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/llms_finance
 excerpt: 'Index Terms— LLMs, Finance'
 date: 2023-11-10
-venue: 'IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)'
+venue: '4th ACM International Conference on Artificial Intelligence in Finance (ICAIF)'
 paperurl: 'http://gody10.github.io/files/llms_finance.pdf'
 citation: '2023, L. Loukas, I. Stogiannidis, O. Diamantopoulos, P. Malakasiotis, and S. Vassos, "Making LLMs Worth Every Penny: Resource-Limited Text Classification in Banking", 4th ACM International Conference on Artificial Intelligence in Finance (ICAIF), Accepted'
 ---
