@@ -27,4 +27,4 @@ Feel free to reach out to me if you are interested in collaborating or if you ha
   </script>
 </div>
 
-![My Profile Picture](images/alma.jpg)
+![ALMA](images/alma_paros.jpg)
