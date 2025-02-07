@@ -40,7 +40,7 @@ redirect_from:
 ## Publications
 
 - 2025, **Odyssefs Diamantopoulos Pantaleon** and E. E. Tsiropoulou, "CLEOS: Contract-Theoretic Federated Learning through Over-the-Air-Computation", IEEE Globecomm 2025, Awaiting Review  
-- 2025, **Odyssefs Diamantopoulos Pantaleon**, Aisha B Rahman, and E. E. Tsiropoulou, "BRAVE: Benefit-Aware Data Offloading in UAV Edge Computing Using Multi-Agent Reinforcement Learning", Simulation Modelling Practice and Theory Journal, Under Revision  
+- 2025, **Odyssefs Diamantopoulos Pantaleon**, Aisha B Rahman, and E. E. Tsiropoulou, "BRAVE: Benefit-Aware Data Offloading in UAV Edge Computing Using Multi-Agent Reinforcement Learning", Simulation Modelling Practice and Theory Journal, Accepted
 - 2025, **Odyssefs Diamantopoulos Pantaleon**, Aisha B Rahman, and E. E. Tsiropoulou, "TANDEM: Trust-aware Sustainable Data Offloading in Multi-access Edge Computing", IEEE ICC 2025, Accepted  
 - 2025, Aisha B Rahman, **Odyssefs Diamantopoulos Pantaleon**, E. E. Tsiropoulou, "NEMESIS: No-Regret E-health User Experience in Multi-Access Edge Computing Systems", IEEE ICC 2025, Accepted  
 - 2024, S. Tsikteris, **O. Diamantopoulos Pantaleon**, E. E. Tsiropoulou, "Cybersecurity Certification Requirements for Distributed Energy Resources: A Survey of SunSpec Alliance Standards", Energies 2024, Accepted  
