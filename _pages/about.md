@@ -29,4 +29,6 @@ Feel free to reach out to me if you are interested in collaborating or if you ha
 
 ![ALMA](images/alma_paros.jpg)
 
-![ROMEO](images/romaios.jpg) ![ALMA_SHIP](images/alma_ship.jpg)
+![ROMEO](images/romaios.jpg) 
+
+![ALMA_SHIP](images/alma_ship.jpg)
