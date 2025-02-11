@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Deep Reinforcement Learning for Optimization of a Residential Energy Management"
+excerpt: "This project was published in IEEE SmartGrid and basically models a Smart Home environment and develops a Deep Reinforcement Learning agent that acts as the Residential Energy Manager that adapts to the user's preferences and minimizes costs<br/><img src='/images/deep_rl.jpg'>"
 collection: portfolio
 ---
 
