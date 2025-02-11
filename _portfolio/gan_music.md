@@ -1,6 +1,6 @@
 ---
 title: "Generative Adversarial Networks for Music Generation"
-excerpt: "In this project Generative Adversarial Networks are trained on classical music in order to learn to produce music [(github repository)](https://github.com/GradientSEALs/gan_music): **Generative Adversarial Networks, Deep Machine Learning**<br/><img src='/images/mozzart_requiem.jpg' width='700'>"
+excerpt: "In this project Generative Adversarial Networks are trained on classical music and produce interesting results[(github repository)](https://github.com/GradientSEALs/gan_music): **Generative Adversarial Networks, Deep Machine Learning**<br/><img src='/images/mozzart_requiem.jpg' width='700'>"
 collection: portfolio
 ---
 
