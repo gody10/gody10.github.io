@@ -1,12 +1,12 @@
 ---
 title: "Deep Reinforcement Learning for Optimization of a Residential Energy Management"
-excerpt: "This project was published in IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids and basically models a Smart Home environment and develops a Deep Reinforcement Learning agent that acts as the Residential Energy Manager which adapts to the user's preferences and minimizes costs: [github repository](https://github.com/SpirosChadoulos/EMS-env) <br/><img src='/images/deep_rl.jpg'>"
+excerpt: "This project was published in IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids and basically models a Smart Home environment and develops a Deep Reinforcement Learning agent that acts as the Residential Energy Manager which adapts to the user's preferences and minimizes costs: [github repository](https://github.com/SpirosChadoulos/EMS-env) <br/><img src='/images/smart_home.jpg'>"
 collection: portfolio
 ---
 
-# EMS-env: A Reinforcement Learning framework for residential energy efficiency recommendations
+## EMS-env: A Reinforcement Learning framework for residential energy efficiency recommendations
 
-## Description
+### Description
 
 This project serves as a comprehensive guide and resource hub for understanding, experimenting with, and implementing RL models in the context of household energy optimization.
 
@@ -14,7 +14,7 @@ _EMS-env_ is a custom Gymnasium environment for residential energy efficiency re
 
 _EMS-env paper: S. Chadoulos, O. Diamantopoulos, I. Koutsopoulos, G.C. Polyzos, and N. Ipiotis. "EMS-env: A Reinforcement Learning Framework for Residential Energy Efficiency Recommendations" (Presented at the 2024 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, Oslo Nowray)._
 
-## Implementation Details
+### Implementation Details
 
 This framework was built using Gymnasium to create the environment and Ray to execute and deploy different Deep Reinforcement Learning (DRL)algorithms. More specifically, the following algorithms were applied:
 - e-greedy
@@ -24,7 +24,7 @@ This framework was built using Gymnasium to create the environment and Ray to ex
 
 The environment supports an infinite number of different user's, who each have their own preferences and unique personalities. The DRL agent is tasked to, on the one hand, understand the user's behavioral patterns, on the other hand, schedule appliances for time frames that the electricity price is lower (example: night hours)
 
-## Technologies Used
+### Technologies Used
 
 - **Deep Reinforcement Learning** – Leveraging advanced RL techniques for optimal decision-making.
 - **Problem Modeling** – Structuring complex problems into solvable frameworks.
