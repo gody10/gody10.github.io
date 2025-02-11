@@ -1,6 +1,6 @@
 ---
 title: "Federated Learning for Phising Attack Detection with the use of Over-The-Air-Computing"
-excerpt: "This project has been sent to IEEE Globecom 2025. We create a realistic framework under which we train a global model with the use of Federated Learning to detect phising attacks [(no github repository for now)](): **Federated Learning, Game Theory, Over-The-Air-Computation** <br/><img src='/images/phisinh.jpg' width='700'>"
+excerpt: "This project has been sent to IEEE Globecom 2025. We create a realistic framework under which we train a global model with the use of Federated Learning to detect phising attacks [(no github repository for now)](): **Federated Learning, DeepML, Game Theory, Over-The-Air-Computation** <br/><img src='/images/phisinh.jpg' width='700'>"
 collection: portfolio
 ---
 
