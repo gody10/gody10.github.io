@@ -1,6 +1,6 @@
 ---
 title: "Deep Reinforcement Learning for Optimization of a Residential Energy Management"
-excerpt: "This project was published in IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids. A Smart Home environment is created and a Deep Reinforcement Learning agent is developed with the goal of acting as a Residential Energy Manager which will adapt to the user's preferences and minimize costs [(github repository)](https://github.com/SpirosChadoulos/EMS-env): **Deep Reinforcement Learning** <br/><img src='/images/smart_home.jpg' width='700'>"
+excerpt: "This project was published in IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids. A Smart Home environment is created and a Deep Reinforcement Learning agent is developed with the goal of acting as a Residential Energy Manager which will adapt to the user's preferences and minimize costs [(github repository)](https://github.com/SpirosChadoulos/EMS-env): **Deep Reinforcement Learning** <br/><img src='/images/smart_homes.jpg' width='700'>"
 collection: portfolio
 ---
 
