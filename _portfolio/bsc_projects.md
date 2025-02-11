@@ -1,6 +1,6 @@
 ---
 title: "BSc Projects"
-excerpt: "These are all of the projects that I completed during the course of my undergraduate studies. They cover a wide range of topics from app designing to deep Machine Learning and game design: **Deep Machine Learning, Natural Language Processing, SQL, C++, Java, Solidity, Unity, MIPS, VHDL, Android Studio**<br/><img src='/images/diploma.jpg' width='700'>"
+excerpt: "These are all of the projects that I completed during the course of my undergraduate studies. They cover a wide range of topics from app designing to deep Machine Learning and game design [(github repository)](https://github.com/gody10/MyProjects/tree/master): **Deep Machine Learning, Natural Language Processing, SQL, C++, Java, Solidity, Unity, MIPS, VHDL, Android Studio**<br/><img src='/images/diploma.jpg' width='700'>"
 collection: portfolio
 ---
 
