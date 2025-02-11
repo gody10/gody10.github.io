@@ -1,6 +1,6 @@
 ---
 title: "Deep Reinforcement Learning for Optimization of a Residential Energy Management"
-excerpt: "This project was published in the Simulation Modeling and Practice journal. We modeled a disaster scenario wherε UAVs have to optimize their path planning in order to collect as much data as they can to serve the citizents of the city [(github repository)](https://github.com/gody10/SIMPAT_BRAVE_2025): Multi-Agent Deep Reinforcement Learning, Game Theory <br/><img src='/images/SIMPAT_framework.jpg'>"
+excerpt: "This project was published in the Simulation Modeling and Practice journal. We modeled a disaster scenario wherε UAVs have to optimize their path planning in order to collect as much data as they can to serve the citizents of the city [(github repository)](https://github.com/gody10/SIMPAT_BRAVE_2025): Multi-Agent Deep Reinforcement Learning, Game Theory <br/><img src='/images/SIMPAT_framework.jpg' width='700'>"
 collection: portfolio
 ---
 
