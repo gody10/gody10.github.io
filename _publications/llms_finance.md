@@ -3,7 +3,7 @@ title: "Making LLMs Worth Every Penny: Resource-Limited Text Classification in B
 collection: publications
 category: conferences
 permalink: /publication/llms_finance
-excerpt: 'Index Terms— **Large Language Models, Finance**'
+excerpt: 'Index Terms: **Large Language Models, Finance**'
 date: 2023-11-10
 venue: '4th ACM International Conference on Artificial Intelligence in Finance (ICAIF)'
 paperurl: 'http://gody10.github.io/files/llms_finance.pdf'

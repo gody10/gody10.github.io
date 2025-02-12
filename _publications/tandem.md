@@ -3,7 +3,7 @@ title: "TANDEM: Trust-aware Sustainable Data Offloading in Multi-access Edge Com
 collection: publications
 category: conferences
 permalink: /publication/tandem
-excerpt: 'Index Terms— **Sustainable Computing, Social-aware Trust, Game Theory, Network Economics, Edge Computing**'
+excerpt: 'Index Terms: **Sustainable Computing, Social-aware Trust, Game Theory, Network Economics, Edge Computing**'
 date: 2025-01-10
 venue: 'IEEE International Conference on Communications'
 paperurl: 'http://gody10.github.io/files/tandem.pdf'

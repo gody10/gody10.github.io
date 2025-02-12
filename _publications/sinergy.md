@@ -3,7 +3,7 @@ title: "Energy optimization of building IoT infrastructures in a stratified way"
 collection: publications
 category: conferences
 permalink: /publication/sinergy
-excerpt: 'Index Terms- **PV generation forecasting, Energy task scheduling**'
+excerpt: 'Index Terms: **PV generation forecasting, Energy task scheduling**'
 date: 2023-11-10
 venue: 'International SINERGY Conference on Smart and Innovative eNERGY management'
 paperurl: 'http://gody10.github.io/files/sinergy.pdf'

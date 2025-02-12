@@ -3,7 +3,7 @@ title: "EMS-env: A Reinforcement Learning Framework for Residential Energy Effic
 collection: publications
 category: conferences
 permalink: /publication/ems_env
-excerpt: 'Index Terms— **Deep Reinforcement Learning, Energy Optimization**'
+excerpt: 'Index Terms: **Deep Reinforcement Learning, Energy Optimization**'
 date: 2024-01-10
 venue: 'IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)'
 paperurl: 'http://gody10.github.io/files/ems_env.pdf'
