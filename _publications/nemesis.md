@@ -3,7 +3,7 @@ title: "NEMESIS: No-Regret E-health User Experience in Multi-Access Edge Computi
 collection: publications
 category: conferences
 permalink: /publication/nemesis
-excerpt: 'Index Terms—E-health, Regret Learning, Reliability, Edge Computing, Internet of Medical Things.'
+excerpt: 'Index Terms— **E-health, Regret Learning, Reliability, Edge Computing, Internet of Medical Things**'
 date: 2025-01-10
 venue: 'IEEE International Conference on Communications'
 paperurl: 'http://gody10.github.io/files/nemesis.pdf'

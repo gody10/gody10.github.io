@@ -3,7 +3,7 @@ title: "Cybersecurity Certification Requirements for Distributed Energy Resource
 collection: publications
 category: manuscripts
 permalink: /publication/energies
-excerpt: 'Keywords: Distributed Energy Resources, SunSpec, Electric Vehicles, Cybersecurity.'
+excerpt: 'Index Terms: **Distributed Energy Resources, SunSpec, Electric Vehicles, Cybersecurity**'
 date: 2024-09-01
 venue: 'Energies'
 slidesurl: 

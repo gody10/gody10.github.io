@@ -3,7 +3,7 @@ title: "Building energy efficiency recommendations with reinforcement learning"
 collection: publications
 category: conferences
 permalink: /publication/poster
-excerpt: 'Index Terms— Reinforcement learning, Optimization, Smart Grid'
+excerpt: 'Index Terms— **Reinforcement learning, Optimization, Smart Grid**'
 date: 2023-08-10
 venue: 'Gender Equality Conference'
 paperurl: 'http://gody10.github.io/files/poster.pdf'
