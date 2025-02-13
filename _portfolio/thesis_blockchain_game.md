@@ -1,6 +1,6 @@
 ---
 title: "Unity Card Game with Ethereum Blockchain tokens"
-excerpt: "This is my BSc thesis project. In my thesis a Unity Card game was created where every card was represented as an ERC-20 token on the Ethereum blockchain[(github repository)](https://github.com/mmlab-aueb/blockchain-mobile-game-BSc): **Unity, Ethereum, Solidity**<br/><img src='/images/cards.png' width='700'>"
+excerpt: "This is my BSc thesis project. In my thesis a Unity Card game was created where every card was represented as an ERC-20 token on the Ethereum blockchain [(github repository)](https://github.com/mmlab-aueb/blockchain-mobile-game-BSc): **Unity, Ethereum, Solidity**<br/><img src='/images/cards.png' width='700'>"
 collection: portfolio
 ---
 
