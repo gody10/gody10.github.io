@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-- **Ph.D. in Computer Engineering (Electrical Engineering), Arizona State University (ASU)** *(01/2025 - Present)*  
+- **Ph.D. in Computer Engineering (Electrical Engineering), Arizona State University (ASU)** *(01/2025 - 05/2025)*  
   Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab  
 - **Ph.D. in Electrical and Computer Engineering, University of New Mexico (UNM)** *(08/2024 - 12/2024)* 
   Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab, **International Amigo Scholar**
@@ -51,7 +51,7 @@ redirect_from:
 
 ## Research Experience
 
-- **Graduate Research Assistant, PROTON Lab (08/2024 - Present)**  
+- **Graduate Research Assistant, PROTON Lab (08/2024 - 05/2025)**  
   - Conducting research on the Goaltender Project (collaboration with USA-DOE, Sandia National Labs, ASU)  
   - Collecting and labeling IEEE 2030.5 XML and OCPP 2.0.1 JSON payloads for cyber-physical attack detection  
   - Exploring supervised and unsupervised machine learning models for cyber-physical attack detection
