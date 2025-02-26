@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I am Odysseas (pronounced as oh - dh ee s - s EH - aa s). I am currently a PhD student at [Arizona State University](https://www.asu.edu), under the supervision of Prof. [Eirini Eleni Tsiropoulou](https://sites.google.com/view/eirini-eleni-tsiropoulou/home),  and a member of the PROTON Lab. 
+Hi I am Odysseas (pronounced as oh - dh ee s - s EH - aa s). I am looking for PhD opportunities in the field of Computer Vision, NLP, Reinforcement Learning, or in intersections of those. I am extremely motivated and passionate about my research and will work hard to make the most out of every opportunity.
 
 My research interests are focused on leveraging AI to solve real-life problems. I believe the future will be shaped by intelligent agents, profoundly transforming society—from everyday jobs to the education system. I have extensive experience with problem modeling and solving, leveraging Optimization techniques, Game Theory and Reinforcement learning. I also have hands-on experience with Large Language Models, Transformer architectures, and Embedding models such as BERT, as well as Computer Vision architectures — all of which I have applied to tasks such as patent prediction and classification, chatbot development, residential energy management training, and more.
 
