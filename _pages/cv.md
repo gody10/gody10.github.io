@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 - **Ph.D. in Engineering, University of Edinburgh** *(09/2025 - Present)*  
-  Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab  
+  Advisor: Prof. Sotirios Tsaftaris, member of VIOS Lab 
 - **Ph.D. in Computer Engineering (Electrical Engineering), Arizona State University (ASU)** *(01/2025 - 05/2025)*  
   Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab  
 - **Ph.D. in Electrical and Computer Engineering, University of New Mexico (UNM)** *(08/2024 - 12/2024)* 
