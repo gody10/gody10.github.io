@@ -11,10 +11,12 @@ redirect_from:
 
 ## Education
 
+- **Ph.D. in Engineering, University of Edinburgh** *(09/2025 - Present)*  
+  Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab  
 - **Ph.D. in Computer Engineering (Electrical Engineering), Arizona State University (ASU)** *(01/2025 - 05/2025)*  
   Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab  
 - **Ph.D. in Electrical and Computer Engineering, University of New Mexico (UNM)** *(08/2024 - 12/2024)* 
-  Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab, **International Amigo Scholar**
+  Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab, **International Amigo Scholarship**
 - **M.Sc. in Computer Science, Athens University of Economics and Business (AUEB)** *(09/2022 - 11/2023)*  
   **Grade: 9.36/10**  
   Master thesis: "Residential Energy Consumption Optimization through Reinforcement Learning"  
