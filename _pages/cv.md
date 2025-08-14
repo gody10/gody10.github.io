@@ -12,11 +12,11 @@ redirect_from:
 ## Education
 
 - **Ph.D. in Engineering, University of Edinburgh** *(09/2025 - Present)*  
-  Advisor: Prof. Sotirios Tsaftaris, member of VIOS Lab 
+  Topic: Causal AI in Medical Imaging, Advisor: Prof. Sotirios Tsaftaris, member of VIOS Lab 
 - **Ph.D. in Computer Engineering (Electrical Engineering), Arizona State University (ASU)** *(01/2025 - 05/2025)*  
-  Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab  
+  Topic: AI Practical Applications, Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab  
 - **Ph.D. in Electrical and Computer Engineering, University of New Mexico (UNM)** *(08/2024 - 12/2024)* 
-  Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab, **International Amigo Scholarship**
+  Topic: AI Practical Applications, Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab, **International Amigo Scholarship**
 - **M.Sc. in Computer Science, Athens University of Economics and Business (AUEB)** *(09/2022 - 11/2023)*  
   **Grade: 9.36/10**  
   Master thesis: "Residential Energy Consumption Optimization through Reinforcement Learning"  
@@ -41,7 +41,7 @@ redirect_from:
 
 ## Publications
 
-- 2025, **Odyssefs Diamantopoulos Pantaleon** and E. E. Tsiropoulou, "CLEOS: Contract-Theoretic Federated Learning through Over-the-Air-Computation", IEEE Globecomm 2025, Awaiting Review  
+- 2025, **Odyssefs Diamantopoulos Pantaleon** and E. E. Tsiropoulou, "CLEOS: Contract-Theoretic Federated Learning through Over-the-Air-Computation", IEEE Globecomm 2025, Accepted  
 - 2025, **Odyssefs Diamantopoulos Pantaleon**, Aisha B Rahman, and E. E. Tsiropoulou, "BRAVE: Benefit-Aware Data Offloading in UAV Edge Computing Using Multi-Agent Reinforcement Learning", Simulation Modelling Practice and Theory Journal, Accepted
 - 2025, **Odyssefs Diamantopoulos Pantaleon**, Aisha B Rahman, and E. E. Tsiropoulou, "TANDEM: Trust-aware Sustainable Data Offloading in Multi-access Edge Computing", IEEE ICC 2025, Accepted  
 - 2025, Aisha B Rahman, **Odyssefs Diamantopoulos Pantaleon**, E. E. Tsiropoulou, "NEMESIS: No-Regret E-health User Experience in Multi-Access Edge Computing Systems", IEEE ICC 2025, Accepted  
@@ -52,6 +52,12 @@ redirect_from:
 - 2023, **O. Diamantopoulos**, S. Chadoulos, I. Koutsopoulos, G. Polyzos and N. Ipiotis, "Building energy efficiency recommendations with reinforcement learning", Gender Equality Conference 2023, Accepted  
 
 ## Research Experience
+
+- **Machine Learning Research Engineer, ExcID (05/2025 - 08/2025)**  
+  - I developed AI agents that could successfully judge company policies and advice them on how to achieve
+  GDPR compliance
+  - I also developed AI agents that provided services related to the OpenID Foundation Conformance Suite
+  Tests
 
 - **Graduate Research Assistant, PROTON Lab (08/2024 - 05/2025)**  
   - Conducting research on the Goaltender Project (collaboration with USA-DOE, Sandia National Labs, ASU)  
