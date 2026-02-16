@@ -6,7 +6,7 @@ permalink: /publication/nemesis
 excerpt: 'Index Terms: **E-health, Regret Learning, Reliability, Edge Computing, Internet of Medical Things**'
 date: 2025-01-10
 venue: 'IEEE International Conference on Communications'
-paperurl: 'http://gody10.github.io/files/nemesis.pdf'
+paperurl: 'https://gody10.github.io/files/nemesis.pdf'
 citation: '2025, Aisha B Rahman, Odyssefs Diamantopoulos Pantaleon, E. E. Tsiropoulou, "NEMESIS: No-Regret E-health User Experience in Multi-Access Edge Computing Systems", IEEE ICC 2025, Accepted'
 ---
 The rapid growth of data and computing needs

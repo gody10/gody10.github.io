@@ -6,7 +6,7 @@ permalink: /publication/poster
 excerpt: 'Index Terms: **Reinforcement learning, Optimization, Smart Grid**'
 date: 2023-08-10
 venue: 'Gender Equality Conference'
-paperurl: 'http://gody10.github.io/files/poster.pdf'
+paperurl: 'https://gody10.github.io/files/poster.pdf'
 citation: '2023, O. Diamantopoulos, S. Chadoulos, I. Koutsopoulos, G. Polyzos and N. Ipiotis, "Building energy efficiency recom-
 mendations with reinforcement learning", Gender Equality Conference 2023, Accepted'
 ---

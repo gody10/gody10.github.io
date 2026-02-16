@@ -7,7 +7,7 @@ excerpt: 'Index Terms: **Distributed Energy Resources, SunSpec, Electric Vehicle
 date: 2024-09-01
 venue: 'Energies'
 slidesurl: 
-paperurl: 'http://gody10.github.io/files/energies.pdf'
+paperurl: 'https://gody10.github.io/files/energies.pdf'
 citation: '2024, S. Tsikteris, O. Diamantopoulos Pantaleon, E. E. Tsiropoulou, "Cybersecurity Certification Requirements for Distributed Energy Resources: A Survey of SunSpec Alliance Standards", Energies 2024, Accepted'
 ---
 

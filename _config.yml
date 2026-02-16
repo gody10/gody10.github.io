@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Personal Information"
+title                    : "Odyssefs Diamantopoulos Pantaleon"
 title_separator          : "-"
 name                     : &name "Odyssefs Diamantopoulos Pantaleon"
-description              : &description "personal description"
+description              : &description "PhD Student at the University of Edinburgh researching Causal AI in Medical Imaging"
 url                      : https://gody10.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gody10/gody10.github.io"
@@ -25,8 +25,8 @@ author:
   avatar           : "ody_photo.jpg"
   name             : "Odyssefs Diamantopoulos Pantaleon"
   pronouns         : # example: "she/her"  
-  bio              : "Born and raised in Greece originating from the island of Paros! I have a BSc and a MSc in Computer Science, with specialization in Deep ML and Deep RL and a Minor in Philosophy"
-  location         : "Athens/Greece"
+  bio              : "PhD Student at the University of Edinburgh researching Causal AI in Medical Imaging. Born and raised in Greece, from the island of Paros."
+  location         : "Edinburgh, UK"
   employer         : "University of Edinburgh"
   uri              : # URL
   email            : "o.diamantopoulospantaleon@gmail.com"

@@ -6,7 +6,7 @@ permalink: /publication/ems_env
 excerpt: 'Index Terms: **Deep Reinforcement Learning, Energy Optimization**'
 date: 2024-01-10
 venue: 'IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)'
-paperurl: 'http://gody10.github.io/files/ems_env.pdf'
+paperurl: 'https://gody10.github.io/files/ems_env.pdf'
 citation: '2024, S. Chadoulos, O. Diamantopoulos, I. Koutsopoulos, G. Polyzos and N. Ipiotis, "EMS-env: A Reinforcement Learning framework for residential energy efficiency recommendations", IEEE SmartGridComm 2024, Accepted'
 ---
 Personalized device-level energy consumption recommendations towards energy efficiency can have a notable

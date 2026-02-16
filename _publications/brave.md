@@ -7,7 +7,7 @@ excerpt: 'Index Terms: **Reinforcement Learning, Optimization, Game Theory**'
 date: 2025-02-01
 venue: 'Simulation Modelling Practice and Theory'
 slidesurl: 
-paperurl: 'http://gody10.github.io/files/brave.pdf'
+paperurl: 'https://gody10.github.io/files/brave.pdf'
 citation: '2025, Odyssefs Diamantopoulos Pantaleon, Aisha B Rahman, and E. E. Tsiropoulou, "BRAVE: Benefit-Aware Data Offloading in UAV Edge Computing Using Multi-Agent Reinforcement Learning", Simulation Modelling Practice and Theory Journal, Accepted'
 ---
 

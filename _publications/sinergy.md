@@ -6,7 +6,7 @@ permalink: /publication/sinergy
 excerpt: 'Index Terms: **PV generation forecasting, Energy task scheduling**'
 date: 2023-11-10
 venue: 'International SINERGY Conference on Smart and Innovative eNERGY management'
-paperurl: 'http://gody10.github.io/files/sinergy.pdf'
+paperurl: 'https://gody10.github.io/files/sinergy.pdf'
 citation: '2023, S. Chadoulos, S. Athanasoulias, S. Kalogridis, N. Ipiotis, O. Diamantopoulos, I. Koutsopoulos and G. Polyzos, "Energy Optimization of Building IoT Infrastructures in a Stratified Way", International SINERGY Conference on Smart
 and Innovative eNERGY management, Accepted'
 ---

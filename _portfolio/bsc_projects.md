@@ -7,7 +7,7 @@ collection: portfolio
 ## BSc Projects
 
 ### Description
-This is a collection of all the projects that I completed over the course of 4 years. Those complicated assignments forced me to get hands on experience with many different areas of Computer Science and understand the value of teamwork and leadership. It is apparent that the topic that I did most of these projects in was Machine Learnine, which interested me the most. 
+This is a collection of all the projects that I completed over the course of 4 years. Those complicated assignments forced me to get hands on experience with many different areas of Computer Science and understand the value of teamwork and leadership. It is apparent that the topic that I did most of these projects in was Machine Learning, which interested me the most. 
 
 
 ### Details

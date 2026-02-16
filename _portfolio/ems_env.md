@@ -12,7 +12,7 @@ This project serves as a comprehensive guide and resource hub for understanding,
 
 _EMS-env_ is a custom Gymnasium environment for residential energy efficiency recommendations.
 
-_EMS-env paper: S. Chadoulos, O. Diamantopoulos, I. Koutsopoulos, G.C. Polyzos, and N. Ipiotis. "EMS-env: A Reinforcement Learning Framework for Residential Energy Efficiency Recommendations" (Presented at the 2024 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, Oslo Nowray)._
+_EMS-env paper: S. Chadoulos, O. Diamantopoulos, I. Koutsopoulos, G.C. Polyzos, and N. Ipiotis. "EMS-env: A Reinforcement Learning Framework for Residential Energy Efficiency Recommendations" (Presented at the 2024 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, Oslo Norway)._
 
 ### Implementation Details
 
@@ -22,7 +22,7 @@ This framework was built using Gymnasium to create the environment and Ray to ex
 - A3C
 - Proximal Policy Optimization
 
-The environment supports an infinite number of different user's, who each have their own preferences and unique personalities. The DRL agent is tasked to, on the one hand, understand the user's behavioral patterns, on the other hand, schedule appliances for time frames that the electricity price is lower (example: night hours)
+The environment supports an infinite number of different users, who each have their own preferences and unique personalities. The DRL agent is tasked to, on the one hand, understand the user's behavioral patterns, on the other hand, schedule appliances for time frames that the electricity price is lower (example: night hours)
 
 ### Technologies Used
 

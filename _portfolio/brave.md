@@ -1,6 +1,6 @@
 ---
-title: "Multi UAV Path Planing and User Modeling in Disaster Scenarios using Deep RL and Game Theory"
-excerpt: "This project was published in the Simulation Modeling and Practice journal. A disaster scenario was designed where UAVs have to optimize their path planning in order to collect as much data as they can to serve the citizents of the city [(github repository)](https://github.com/gody10/SIMPAT_BRAVE_2025): **Multi-Agent Deep Reinforcement Learning, Game Theory** <br/><img src='/images/SIMPAT_framework.jpg' width='700'>"
+title: "Multi UAV Path Planning and User Modeling in Disaster Scenarios using Deep RL and Game Theory"
+excerpt: "This project was published in the Simulation Modeling and Practice journal. A disaster scenario was designed where UAVs have to optimize their path planning in order to collect as much data as they can to serve the citizens of the city [(github repository)](https://github.com/gody10/SIMPAT_BRAVE_2025): **Multi-Agent Deep Reinforcement Learning, Game Theory** <br/><img src='/images/SIMPAT_framework.jpg' width='700'>"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 
 ### Description
 
-This projecs explores the ability of UAVs to assist citizents in case of emergencies, like earthquakes. We model the data offloading of users using Submodular Games and train UAVs with Multi-Agent Deep Reinforcement Learning algorithms and compare the results.
+This project explores the ability of UAVs to assist citizens in case of emergencies, like earthquakes. We model the data offloading of users using Submodular Games and train UAVs with Multi-Agent Deep Reinforcement Learning algorithms and compare the results.
 
 _BRAVE paper: Odyssefs Diamantopoulos Pantaleon, Aisha B. Rahman, and E. E. Tsiropoulou, "BRAVE: Benefit-Aware Data Offloading in UAV Edge Computing Using Multi-Agent Reinforcement Learning", Simulation Modeling and Practice, Accepted ._
 
