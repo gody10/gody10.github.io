@@ -17,7 +17,7 @@ Feel free to reach out to me if you are interested in collaborating or if you ha
   <script>
     function updateTime() {
       const now = new Date();
-      const options = { hour: '2-digit', minute: '2-digit', second: '2-digit', timeZone: 'Europe/Athens', hour12: true };
+      const options = { hour: '2-digit', minute: '2-digit', second: '2-digit', timeZone: 'Europe/London', hour12: true };
       document.getElementById('current-time').textContent = now.toLocaleTimeString('en-US', options);
     }
     setInterval(updateTime, 1000);
