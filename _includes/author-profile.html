@@ -157,5 +157,10 @@
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
     </ul>
+    {% if site.site_theme == "aegean" %}
+    <figure class="byz-banner">
+      <img src="{{ base_path }}/images/palaiologos-banner.png" alt="Byzantine Palaiologos banner with the tetragrammatic cross and four betas">
+    </figure>
+    {% endif %}
   </div>
 </div>

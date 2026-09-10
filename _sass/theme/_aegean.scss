@@ -1,0 +1,48 @@
+/* ==========================================================================
+   AEGEAN THEME
+   Marble, island light, Byzantine gold, quiet computation.
+   Switch site_theme back to "default" in _config.yml to restore the previous look.
+   ========================================================================== */
+
+$gray                       : #7d786c;
+$dark-gray                  : #1c2428;
+$darker-gray                : #14191c;
+$light-gray                 : #8a8478;
+$lighter-gray               : #e6e0d2;
+
+$danger-color               : #ee5f5b;
+$info-color                 : #2c6a76;
+$notice-color               : #7d786c;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+
+$border-radius              : 2px;
+$box-shadow                 : 0 1px 1px rgba(22, 58, 72, 0.08);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 78px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+:root {
+    --global-base-color                 : #163a48;
+    --global-bg-color                   : #f3efe4;
+    --global-border-color               : #e0dacb;
+    --global-code-background-color      : #faf7f0;
+    --global-code-text-color            : #1c2428;
+    --global-fig-caption-color          : #7d786c;
+    --global-link-color                 : #2c6a76;
+    --global-link-color-hover           : #163a48;
+    --global-link-color-visited         : #4a7c86;
+    --global-masthead-link-color        : #5c564c;
+    --global-masthead-link-color-hover  : #163a48;
+    --global-text-color                 : #1c2428;
+    --global-text-color-light           : #7d786c;
+    --global-thead-color                : #e6e0d2;
+    --aegean-gold                       : #b0893a;
+    --aegean-gold-soft                  : #d4c19a;
+    --aegean-sea                        : #2c6a76;
+    --aegean-ink                        : #163a48;
+    --aegean-foam                       : #faf7f0;
+}

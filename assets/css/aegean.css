@@ -1,0 +1,388 @@
+/* Aegean overlay — loaded only when site_theme is aegean.
+   Does not replace academicpages structure; it restyles it. */
+
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;1,400&display=swap");
+
+body.theme-aegean {
+  --global-base-color: #163a48;
+  --global-bg-color: #f3efe4;
+  --global-border-color: #e0dacb;
+  --global-code-background-color: #faf7f0;
+  --global-code-text-color: #1c2428;
+  --global-fig-caption-color: #7d786c;
+  --global-link-color: #2c6a76;
+  --global-link-color-hover: #163a48;
+  --global-link-color-visited: #4a7c86;
+  --global-masthead-link-color: #5c564c;
+  --global-masthead-link-color-hover: #163a48;
+  --global-text-color: #1c2428;
+  --global-text-color-light: #7d786c;
+  --global-thead-color: #e6e0d2;
+  --aegean-gold: #b0893a;
+  --aegean-gold-soft: #d4c19a;
+  --aegean-sea: #2c6a76;
+  --aegean-ink: #163a48;
+  --aegean-foam: #faf7f0;
+}
+
+body.theme-aegean {
+  font-family: "Source Sans 3", "Segoe UI", sans-serif;
+  background-color: var(--global-bg-color);
+  background-image:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='24'%3E%3Cpath d='M14 0L28 12L14 24L0 12Z' fill='none' stroke='%23b0893a' stroke-opacity='0.08' stroke-width='0.6'/%3E%3C/svg%3E"),
+    linear-gradient(180deg, #f7f3e9 0%, #f3efe4 48%, #eef3f3 100%);
+  background-attachment: fixed;
+}
+
+body.theme-aegean h1,
+body.theme-aegean h2,
+body.theme-aegean h3,
+body.theme-aegean h4,
+body.theme-aegean .page__title,
+body.theme-aegean .archive__item-title,
+body.theme-aegean .author__name {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-weight: 600;
+  color: var(--aegean-ink);
+}
+
+body.theme-aegean .page__title {
+  letter-spacing: 0.01em;
+}
+
+body.theme-aegean .page__content h2 {
+  border-bottom: none;
+  padding-bottom: 0.35em;
+  position: relative;
+}
+
+body.theme-aegean .page__content h2::after,
+body.theme-aegean .archive h2::after {
+  content: "";
+  display: block;
+  width: 3.6rem;
+  height: 5px;
+  margin-top: 0.5rem;
+  background:
+    linear-gradient(var(--aegean-gold), var(--aegean-gold)) 0 0 / 100% 1px no-repeat,
+    linear-gradient(var(--aegean-gold-soft), var(--aegean-gold-soft)) 0 100% / 70% 1px no-repeat;
+}
+
+/* Gold tessera strip in the masthead */
+body.theme-aegean .gold-bar {
+  height: 6px;
+  width: 100%;
+  border-bottom: 1px solid var(--aegean-ink);
+  background:
+    repeating-linear-gradient(
+      90deg,
+      #b0893a 0 7px,
+      #c9a24d 7px 14px,
+      #8c6a28 14px 21px,
+      #d4c19a 21px 28px
+    );
+}
+
+body.theme-aegean .masthead {
+  background: rgba(243, 239, 228, 0.94);
+  border-bottom: 1px solid var(--aegean-gold-soft);
+  height: auto;
+}
+
+body.theme-aegean .masthead__menu-item {
+  background-color: transparent;
+}
+
+body.theme-aegean .greedy-nav {
+  background: transparent;
+}
+
+body.theme-aegean .masthead__inner-wrap {
+  max-width: none;
+  padding: 0.55rem 1.4rem 0.65rem;
+}
+
+body.theme-aegean .masthead__menu-item--lg {
+  padding-right: 1rem;
+}
+
+body.theme-aegean .greedy-nav a {
+  margin: 0 0.5rem;
+}
+
+body.theme-aegean .greedy-nav .visible-links li:not(:first-child) a {
+  font-size: 0.76rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+body.theme-aegean .greedy-nav .visible-links a:before {
+  background: var(--aegean-gold);
+  height: 2px;
+}
+
+body.theme-aegean .site-mark {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45rem;
+}
+
+body.theme-aegean .site-mark-el {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  color: var(--aegean-ink);
+  text-transform: none;
+}
+
+body.theme-aegean .site-mark-en {
+  font-size: 0.68rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+  font-weight: 500;
+}
+
+body.theme-aegean .greedy-nav button {
+  background-color: var(--aegean-ink);
+}
+
+/* Sidebar */
+body.theme-aegean .author__avatar img {
+  border-radius: 2px;
+  border: 1px solid var(--aegean-gold) !important;
+  outline: 1px solid var(--aegean-ink);
+  outline-offset: 3px;
+  padding: 3px;
+  background: var(--aegean-foam);
+}
+
+body.theme-aegean .author__bio {
+  color: var(--global-text-color-light);
+}
+
+body.theme-aegean .author__urls {
+  background: var(--aegean-foam);
+}
+
+body.theme-aegean .greedy-nav .hidden-links {
+  background: var(--aegean-foam);
+}
+
+body.theme-aegean .greedy-nav .hidden-links:after {
+  border-color: var(--aegean-foam) transparent;
+}
+
+body.theme-aegean .page__content pre,
+body.theme-aegean .page__content code {
+  background: var(--aegean-foam);
+}
+
+body.theme-aegean .btn {
+  background-color: var(--aegean-ink);
+  border-radius: 2px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+body.theme-aegean .btn:hover {
+  background-color: var(--aegean-sea);
+}
+
+body.theme-aegean .page__footer {
+  background-color: transparent;
+  border-top: none;
+  padding-top: 0;
+}
+
+body.theme-aegean .page__footer::before {
+  content: "";
+  display: block;
+  height: 6px;
+  width: 100%;
+  margin-bottom: 1.1rem;
+  background:
+    repeating-linear-gradient(
+      90deg,
+      #b0893a 0 7px,
+      #c9a24d 7px 14px,
+      #8c6a28 14px 21px,
+      #d4c19a 21px 28px
+    );
+}
+
+body.theme-aegean .archive__item {
+  padding: 0.35rem 0 0.85rem;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+body.theme-aegean .archive__item-title a {
+  text-decoration: none;
+}
+
+body.theme-aegean .archive__item-title a:hover {
+  color: var(--aegean-sea);
+}
+
+body.theme-aegean .archive__subtitle {
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+}
+
+body.theme-aegean .page__content a {
+  text-decoration-color: var(--aegean-gold-soft);
+  text-underline-offset: 0.18em;
+}
+
+body.theme-aegean .toc {
+  background: var(--aegean-foam);
+  box-shadow: none;
+  border-radius: 2px;
+}
+
+body.theme-aegean .toc .nav__title {
+  background: var(--aegean-ink);
+}
+
+body.theme-aegean.is-home .page__title {
+  font-family: "Source Sans 3", "Segoe UI", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+  margin-bottom: 0.4rem;
+}
+
+body.theme-aegean .epigraph {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-style: italic;
+  font-size: 1.2rem;
+  color: var(--aegean-sea);
+  letter-spacing: 0.04em;
+  margin: 0 0 1.15rem;
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+}
+
+/* Two overlapping squares = a small eight-pointed star, a Byzantine mosaic motif */
+body.theme-aegean .byz-star {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  position: relative;
+  flex: 0 0 9px;
+}
+
+body.theme-aegean .byz-star::before,
+body.theme-aegean .byz-star::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--aegean-gold);
+}
+
+body.theme-aegean .byz-star::after {
+  transform: rotate(45deg);
+}
+
+body.theme-aegean .site-mark-el::before {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-right: 0.55em;
+  background: var(--aegean-gold);
+  transform: rotate(45deg);
+  box-shadow: 0 0 0 1px var(--aegean-gold-soft);
+  vertical-align: 0.12em;
+}
+
+body.theme-aegean .home-clock {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.06em;
+  color: var(--aegean-ink);
+}
+
+body.theme-aegean .home-gallery {
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 0.75rem;
+  margin: 2.2rem 0 0.5rem;
+}
+
+body.theme-aegean .home-gallery .home-shot:first-child {
+  grid-column: 1 / -1;
+}
+
+body.theme-aegean .home-shot {
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+  background: #d9d2c4;
+}
+
+body.theme-aegean .home-shot img {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  display: block;
+  object-fit: cover;
+  filter: saturate(0.92);
+}
+
+body.theme-aegean .home-shot:first-child img,
+body.theme-aegean .home-shot:nth-child(2) img,
+body.theme-aegean .home-shot:nth-child(3) img {
+  min-height: 240px;
+}
+
+body.theme-aegean .home-shot figcaption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  padding: 1.5rem 0.85rem 0.7rem;
+  background: linear-gradient(transparent, rgba(22, 58, 72, 0.7));
+  color: var(--aegean-foam);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+body.theme-aegean .byz-banner {
+  margin: 1.35rem 0 0;
+  max-width: 108px;
+}
+
+body.theme-aegean .byz-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+  mix-blend-mode: multiply;
+}
+
+body.theme-aegean .page__content p img {
+  box-shadow: none;
+}
+
+@media (max-width: 1200px) {
+  body.theme-aegean .home-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  body.theme-aegean .site-mark-en {
+    display: none;
+  }
+}
+
+@media (max-width: 700px) {
+  body.theme-aegean .home-gallery {
+    grid-template-columns: 1fr;
+  }
+}

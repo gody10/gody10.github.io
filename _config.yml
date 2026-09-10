@@ -8,7 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+# Visual theme. Use "aegean" for the Hellenic/island redesign, or "default"
+# to restore the previous white academicpages look without losing content.
+site_theme               : "aegean"
 title                    : "Odyssefs Diamantopoulos Pantaleon"
 title_separator          : "-"
 name                     : &name "Odyssefs Diamantopoulos Pantaleon"

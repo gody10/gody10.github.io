@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 - **Ph.D. in Engineering, University of Edinburgh** *(09/2025 - Present)*  
-  Topic: Causal AI in Medical Imaging, Advisor: Prof. Sotirios Tsaftaris, member of VIOS Lab 
+  Topic: Causal AI in Medical Imaging, Advisor: Prof. [Sotirios Tsaftaris](https://eng.ed.ac.uk/about/people/professor-sotirios-tsaftaris), member of VIOS Lab 
 - **Ph.D. in Computer Engineering (Electrical Engineering), Arizona State University (ASU)** *(01/2025 - 05/2025)*  
   Topic: AI Practical Applications, Advisor: Prof. Eirini Eleni Tsiropoulou, Member of PROTON Lab  
 - **Ph.D. in Electrical and Computer Engineering, University of New Mexico (UNM)** *(08/2024 - 12/2024)* 
