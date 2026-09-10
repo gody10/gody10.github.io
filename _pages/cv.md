@@ -88,6 +88,16 @@ redirect_from:
   - Assisted in "Mathematics 1" (Fall 2022) and "Databases" (Spring 2023)  
   - Responsible for grading and office hours  
 
+## Academic Service
+
+- **Subreviewer:** Neural Information Processing Systems (NeurIPS), European Conference on Computer Vision (ECCV), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). Conducted the paper reviews and the rebuttal discussions.
+
+## Selected Schools & Symposia
+
+- 2026: Participant, [1st HERON Summer School in Robotics and AI](https://heron-robotics-coe.eu/1st-summer-school-in-robotics-and-ai/), Eugenides Foundation, Athens  
+- 2026: Participant, [Greeks in AI](https://www.greeksin.ai/) Symposium, Eugenides Foundation, Athens  
+- 2025: Participant, [Greeks in AI](https://www.greeksin.ai/) Symposium, Serafeio, Athens  
+
 ## Skills
 
 - **Machine Learning Frameworks:** PyTorch, Hugging Face, NumPy, Jax, Keras, pandas (Python), Gymnasium, Ray, Stable-Baselines3  

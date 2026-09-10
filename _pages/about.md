@@ -11,6 +11,8 @@ Hi I am Odysseas (pronounced as oh - dh ee s - s EH - aa s). I am currently a Ph
 
 My prior studies include a MSc, a BSc and a Minor degree. More specifically, I completed my MSc and my BSc in Computer Science at the [Athens University of Economics and Business (AUEB)](https://aueb.gr/en) under the supervision of Prof. [George C. Polyzos](https://www.aueb.gr/en/faculty_page/polyzos-george) and my Minor in Philosophy at [Deree - The American College of Greece](https://www.acg.edu/).
 
+I am also involved in the broader AI community in Greece. This summer I attended the [1st HERON Summer School in Robotics and AI](https://heron-robotics-coe.eu/1st-summer-school-in-robotics-and-ai/) and the [Greeks in AI](https://www.greeksin.ai/) symposium, which I also attended in 2025.
+
 Feel free to reach out to me if you are interested in collaborating or if you have any questions about my research! The time in my area is: 
 <span id="current-time"></span>
 <div>
