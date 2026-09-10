@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+<figure class="paros-seal">
+  <a href="https://www.paros.gr/" rel="noopener noreferrer">
+    <img src="images/paros-seal.png" alt="Δήμος Πάρου" />
+  </a>
+</figure>
+
 <p class="epigraph">ἐξ Ἀθηνῶν <span class="byz-star" aria-hidden="true"></span> ἐν Ἐδιμβούργῳ</p>
 
 Hi I am Odysseas (pronounced as oh - dh ee s - s EH - aa s). I am currently a PhD student at the University of Edinburgh under the supervision of Prof. [Sotirios Tsaftaris](https://eng.ed.ac.uk/about/people/professor-sotirios-tsaftaris). My research interests are focused on leveraging AI to solve real-life problems. I believe the future will be shaped by intelligent agents, profoundly transforming society, from everyday jobs to the education and healthcare systems. My PhD topic is Causal AI in the field of medical imaging.

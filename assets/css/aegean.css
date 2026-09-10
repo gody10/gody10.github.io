@@ -191,9 +191,10 @@ body.theme-aegean .btn:hover {
 }
 
 body.theme-aegean .page__footer {
-  background-color: transparent;
+  background-color: var(--global-bg-color);
   border-top: none;
   padding-top: 0;
+  z-index: 2;
 }
 
 body.theme-aegean .page__footer::before {
@@ -308,6 +309,33 @@ body.theme-aegean .home-clock {
   color: var(--aegean-ink);
 }
 
+body.theme-aegean.is-home .page__inner-wrap {
+  position: relative;
+}
+
+body.theme-aegean.is-home .page__title,
+body.theme-aegean.is-home .page__content {
+  padding-right: 138px;
+}
+
+body.theme-aegean .paros-seal {
+  margin: 0;
+  max-width: 118px;
+}
+
+body.theme-aegean.is-home .paros-seal {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+body.theme-aegean .paros-seal img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 2px;
+}
+
 body.theme-aegean .home-gallery {
   display: grid;
   grid-template-columns: 1.15fr 1fr;
@@ -358,6 +386,7 @@ body.theme-aegean .home-shot figcaption {
 body.theme-aegean .byz-banner {
   margin: 1.35rem 0 0;
   max-width: 108px;
+  isolation: isolate;
 }
 
 body.theme-aegean .byz-banner img {
@@ -365,6 +394,16 @@ body.theme-aegean .byz-banner img {
   height: auto;
   display: block;
   mix-blend-mode: multiply;
+}
+
+@media screen and (min-width: 1024px) {
+  body.theme-aegean .sidebar {
+    z-index: 5;
+  }
+
+  body.theme-aegean .byz-banner {
+    margin-bottom: 7.5rem;
+  }
 }
 
 body.theme-aegean .page__content p img {
@@ -384,5 +423,17 @@ body.theme-aegean .page__content p img {
 @media (max-width: 700px) {
   body.theme-aegean .home-gallery {
     grid-template-columns: 1fr;
+  }
+
+  body.theme-aegean.is-home .page__title,
+  body.theme-aegean.is-home .page__content {
+    padding-right: 0;
+  }
+
+  body.theme-aegean.is-home .paros-seal {
+    position: static;
+    float: right;
+    max-width: 92px;
+    margin: 0 0 0.8rem 0.9rem;
   }
 }
